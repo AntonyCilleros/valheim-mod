@@ -1,0 +1,2419 @@
+- manifestVersion: 1
+  name: denikson-BepInExPack_Valheim
+  authorName: denikson
+  websiteUrl: https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/
+  displayName: BepInExPack_Valheim
+  description: BepInEx pack for Valheim. Preconfigured and includes unstripped Unity DLLs.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 1901
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/denikson-BepInExPack_Valheim/5.4.1901/icon.png
+- manifestVersion: 1
+  name: aedenthorn_mods-CraftFromContainers
+  authorName: aedenthorn_mods
+  websiteUrl: https://valheim.thunderstore.io/package/aedenthorn_mods/CraftFromContainers/
+  displayName: CraftFromContainers
+  description: Allows you to make use of resources in nearby containers when
+    crafting, building, using smelters and kilns, refueling fires, cooking food,
+    etc.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 4
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/aedenthorn_mods-CraftFromContainers/2.2.4/icon.png
+- manifestVersion: 1
+  name: RandyKnapp-ExtendedItemDataFramework
+  authorName: RandyKnapp
+  websiteUrl: https://valheim.thunderstore.io/package/RandyKnapp/ExtendedItemDataFramework/
+  displayName: ExtendedItemDataFramework
+  description: Extends ItemData for modders. Adds Unique ID to items.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 7
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/RandyKnapp-ExtendedItemDataFramework/1.0.7/icon.png
+- manifestVersion: 1
+  name: RandyKnapp-EpicLoot
+  authorName: RandyKnapp
+  websiteUrl: https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/
+  displayName: EpicLoot
+  description: Adds loot drops, magic items, and enchanting to Valheim.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - RandyKnapp-ExtendedItemDataFramework-1.0.7
+    - denikson-BepInExPack_Valheim-5.4.1700
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 8
+    patch: 9
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/RandyKnapp-EpicLoot/0.8.9/icon.png
+- manifestVersion: 1
+  name: Tyrenheim-EpicLootArmourStandFix
+  authorName: Tyrenheim
+  websiteUrl: https://valheim.thunderstore.io/package/Tyrenheim/EpicLootArmourStandFix/
+  displayName: EpicLootArmourStandFix
+  description: A patch for EpicLoot to fix Armour Stand behaviour
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+    - RandyKnapp-EpicLoot-0.8.8
+    - RandyKnapp-ExtendedItemDataFramework-1.0.7
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Tyrenheim-EpicLootArmourStandFix/0.1.0/icon.png
+- manifestVersion: 1
+  name: OdinPlus-Digitalroots_EpicLoot_Adventure_Bounties
+  authorName: OdinPlus
+  websiteUrl: https://valheim.thunderstore.io/package/OdinPlus/Digitalroots_EpicLoot_Adventure_Bounties/
+  displayName: Digitalroots_EpicLoot_Adventure_Bounties
+  description: Adds 275+ bounties to Epic Loot's Adventure mode.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1500
+    - RandyKnapp-EpicLoot-0.8.6
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 2
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-Digitalroots_EpicLoot_Adventure_Bounties/2.1.2/icon.png
+- manifestVersion: 1
+  name: ValheimPlus-ValheimPlus
+  authorName: ValheimPlus
+  websiteUrl: https://valheim.thunderstore.io/package/ValheimPlus/ValheimPlus/
+  displayName: ValheimPlus
+  description: Valheim Plus
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 9
+    minor: 9
+    patch: 9
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/ValheimPlus-ValheimPlus/9.9.9/icon.png
+- manifestVersion: 1
+  name: RandyKnapp-EquipmentAndQuickSlots
+  authorName: RandyKnapp
+  websiteUrl: https://valheim.thunderstore.io/package/RandyKnapp/EquipmentAndQuickSlots/
+  displayName: EquipmentAndQuickSlots
+  description: Give equipped items their own dedicated inventory slots, plus three
+    more hotkeyable quick slots.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 15
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/RandyKnapp-EquipmentAndQuickSlots/2.0.15/icon.png
+- manifestVersion: 1
+  name: xAfflict-UnrestrictedPortals
+  authorName: xAfflict
+  websiteUrl: https://valheim.thunderstore.io/package/xAfflict/UnrestrictedPortals/
+  displayName: UnrestrictedPortals
+  description: Unrestricted Portals is a mod that allows players to take any item
+    through portals. The mod is highly customizable, allowing players to
+    restrict or unrestrict every individual item.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1502
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 2
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/xAfflict-UnrestrictedPortals/1.4.2/icon.png
+- manifestVersion: 1
+  name: thedefside-BetterUI_Reforged
+  authorName: thedefside
+  websiteUrl: https://valheim.thunderstore.io/package/thedefside/BetterUI_Reforged/
+  displayName: BetterUI_Reforged
+  description: Masa's BetterUI mod updated with bug fixes and new features
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/thedefside-BetterUI_Reforged/2.2.1/icon.png
+- manifestVersion: 1
+  name: cjayride-ConfigurationManager
+  authorName: cjayride
+  websiteUrl: https://valheim.thunderstore.io/package/cjayride/ConfigurationManager/
+  displayName: ConfigurationManager
+  description: Edit your configs in game.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1700
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 5
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/cjayride-ConfigurationManager/0.5.0/icon.png
+- manifestVersion: 1
+  name: mgway-PaddlePower
+  authorName: mgway
+  websiteUrl: https://valheim.thunderstore.io/package/mgway/PaddlePower/
+  displayName: PaddlePower
+  description: More ship passengers means more hands to help paddle
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.701
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/mgway-PaddlePower/1.0.2/icon.png
+- manifestVersion: 1
+  name: OdinPlus-Better_Trader_Remake
+  authorName: OdinPlus
+  websiteUrl: https://valheim.thunderstore.io/package/OdinPlus/Better_Trader_Remake/
+  displayName: Better_Trader_Remake
+  description: Adds a custom trader menu, 310+ items to buy/sell, built-in support
+    for Epic Loot, and an extensive list of configuration options.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 3
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-Better_Trader_Remake/2.1.3/icon.png
+- manifestVersion: 1
+  name: Skrip-SkToolbox
+  authorName: Skrip
+  websiteUrl: https://valheim.thunderstore.io/package/Skrip/SkToolbox/
+  displayName: SkToolbox
+  description: This is designed to extend the functionality of the console and
+    chat commands. Commands featured in this mod are accessible from the console
+    or chat, via a / prefix. This mod allows you to take control of your game
+    regardless of cheats being enabled.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 10
+    patch: 5
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Skrip-SkToolbox/1.10.5/icon.png
+- manifestVersion: 1
+  name: aedenthorn_mods-AutoFuel
+  authorName: aedenthorn_mods
+  websiteUrl: https://valheim.thunderstore.io/package/aedenthorn_mods/AutoFuel/
+  displayName: AutoFuel
+  description: Automatically pulls fuel and ore for kilns and smelters from the
+    ground and nearby containers.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/aedenthorn_mods-AutoFuel/1.0.0/icon.png
+- manifestVersion: 1
+  name: MaGic-Quick_Deposit
+  authorName: MaGic
+  websiteUrl: https://valheim.thunderstore.io/package/MaGic/Quick_Deposit/
+  displayName: Quick_Deposit
+  description: Adds a button for depositing items to a container.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.601
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/MaGic-Quick_Deposit/1.0.1/icon.png
+- manifestVersion: 1
+  name: damnsneaker-QuickStack
+  authorName: damnsneaker
+  websiteUrl: https://valheim.thunderstore.io/package/damnsneaker/QuickStack/
+  displayName: QuickStack
+  description: Press a configured key (` by default) to quickly stack items from
+    your inventory into a currently opened or nearby containers.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.601
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 6
+    patch: 6
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/damnsneaker-QuickStack/0.6.6/icon.png
+- manifestVersion: 1
+  name: aedenthorn_mods-InstantMonsterLootDrop
+  authorName: aedenthorn_mods
+  websiteUrl: https://valheim.thunderstore.io/package/aedenthorn_mods/InstantMonsterLootDrop/
+  displayName: InstantMonsterLootDrop
+  description: Causes monsters to drop their loot and poof immediately.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 4
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/aedenthorn_mods-InstantMonsterLootDrop/0.4.0/icon.png
+- manifestVersion: 1
+  name: OdinPlus-TeleportEverything
+  authorName: OdinPlus
+  websiteUrl: https://valheim.thunderstore.io/package/OdinPlus/TeleportEverything/
+  displayName: TeleportEverything
+  description: This mod is intended to add additional excitement and functionality
+    to the portal system. Teleport wolves, boars, loxes and other allies.
+    Transport ores, ingots and even take enemies with you, or block teleporting
+    when they are nearby.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 7
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-TeleportEverything/1.7.0/icon.png
+- manifestVersion: 1
+  name: casual_plebs-BetterLadders
+  authorName: casual_plebs
+  websiteUrl: https://valheim.thunderstore.io/package/casual_plebs/BetterLadders/
+  displayName: BetterLadders
+  description: Mod changes ladder's behavior, so player can go up smoothly without
+    need to auto-jump (REUPLOAD FROM NEXUSMODS)
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/casual_plebs-BetterLadders/0.2.0/icon.png
+- manifestVersion: 1
+  name: swazrgb-Surtling_Boat
+  authorName: swazrgb
+  websiteUrl: https://valheim.thunderstore.io/package/swazrgb/Surtling_Boat/
+  displayName: Surtling_Boat
+  description: Allows you to use Surtling cores to speed up boats.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.601
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/swazrgb-Surtling_Boat/1.0.2/icon.png
+- manifestVersion: 1
+  name: Smallo-CraftingStationsLevelBasedBuildRange
+  authorName: Smallo
+  websiteUrl: https://valheim.thunderstore.io/package/Smallo/CraftingStationsLevelBasedBuildRange/
+  displayName: CraftingStationsLevelBasedBuildRange
+  description: This is a simple mod that increases the range of your crafting
+    stations build ability depending on their levels. You can also set the
+    default value for a level 1 crafting station (vanilla is 20).
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.701
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Smallo-CraftingStationsLevelBasedBuildRange/1.5.0/icon.png
+- manifestVersion: 1
+  name: Torann_VL-Valheim_Legends
+  authorName: Torann_VL
+  websiteUrl: https://valheim.thunderstore.io/package/Torann_VL/Valheim_Legends/
+  displayName: Valheim_Legends
+  description: Adds selectable hero classes to the game, each with unique
+    abilities and skills.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 4
+    patch: 5
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Torann_VL-Valheim_Legends/0.4.5/icon.png
+- manifestVersion: 1
+  name: virtuaCode-EquipWheel
+  authorName: virtuaCode
+  websiteUrl: https://valheim.thunderstore.io/package/virtuaCode/EquipWheel/
+  displayName: EquipWheel
+  description: This mod adds an user interface for equipping/using items in an
+    easier and faster way. (With Gamepad Support)
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.800
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 6
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/virtuaCode-EquipWheel/1.3.6/icon.png
+- manifestVersion: 1
+  name: virtuaCode-TrashItems
+  authorName: virtuaCode
+  websiteUrl: https://valheim.thunderstore.io/package/virtuaCode/TrashItems/
+  displayName: TrashItems
+  description: This mod adds a trash can to your inventory screen where you can
+    drag and drop your unneeded items to destroy them permanently. (With gamepad
+    support)
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.800
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 4
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/virtuaCode-TrashItems/1.2.4/icon.png
+- manifestVersion: 1
+  name: OdinPlus-OdinHorse
+  authorName: OdinPlus
+  websiteUrl: https://valheim.thunderstore.io/package/OdinPlus/OdinHorse/
+  displayName: OdinHorse
+  description: Horse mount and new items! You can tame it, You can ride it, You
+    can attach the cart!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 5
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-OdinHorse/0.5.1/icon.png
+- manifestVersion: 1
+  name: OdinPlus-Digitalroot_Valheim_SlopeCombatFix
+  authorName: OdinPlus
+  websiteUrl: https://valheim.thunderstore.io/package/OdinPlus/Digitalroot_Valheim_SlopeCombatFix/
+  displayName: Digitalroot_Valheim_SlopeCombatFix
+  description: Digitalroot's take on the Slope Combat Fix mod. DoD compatible.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1700
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-Digitalroot_Valheim_SlopeCombatFix/2.0.0/icon.png
+- manifestVersion: 1
+  name: OdinPlus-OdinCampsite
+  authorName: OdinPlus
+  websiteUrl: https://valheim.thunderstore.io/package/OdinPlus/OdinCampsite/
+  displayName: OdinCampsite
+  description: Campsite is just simple mod for additional pieces thanks to which
+    you can travel safe and save time to build temporary bases. Become the real
+    adventurer!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-OdinCampsite/1.2.0/icon.png
+- manifestVersion: 1
+  name: ValheimModding-Jotunn
+  authorName: ValheimModding
+  websiteUrl: https://valheim.thunderstore.io/package/ValheimModding/Jotunn/
+  displayName: Jotunn
+  description: Jötunn (/ˈjɔːtʊn/, 'giant'), the Valheim Library was created with
+    the goal of making the lives of mod developers easier. It enables you to
+    create mods for Valheim using an abstracted API so you can focus on the
+    actual content creation.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 7
+    patch: 9
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/ValheimModding-Jotunn/2.7.9/icon.png
+- manifestVersion: 1
+  name: RagnarokHCRP-MoreGates
+  authorName: RagnarokHCRP
+  websiteUrl: https://valheim.thunderstore.io/package/RagnarokHCRP/MoreGates/
+  displayName: MoreGates
+  description: This is a basic mod that adds more gates and gate like objects!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1600
+    - ValheimModding-Jotunn-2.3.7
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 11
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/RagnarokHCRP-MoreGates/1.0.11/icon.png
+- manifestVersion: 1
+  name: mtnewton-ItemStacks
+  authorName: mtnewton
+  websiteUrl: https://valheim.thunderstore.io/package/mtnewton/ItemStacks/
+  displayName: ItemStacks
+  description: Increases item stack size and reduces item weight. Configurable
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/mtnewton-ItemStacks/1.2.0/icon.png
+- manifestVersion: 1
+  name: Nexus-FarmGrid
+  authorName: Nexus
+  websiteUrl: https://valheim.thunderstore.io/package/Nexus/FarmGrid/
+  displayName: FarmGrid
+  description: Allows for all plants planted with the cultivator to automatically
+    be snapped and placed into a grid in which they will have enough space to
+    grow. Made by Sarcen
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.800
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Nexus-FarmGrid/0.2.0/icon.png
+- manifestVersion: 1
+  name: Smoothbrain-Groups
+  authorName: Smoothbrain
+  websiteUrl: https://valheim.thunderstore.io/package/Smoothbrain/Groups/
+  displayName: Groups
+  description: Adds basic group features to the game.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 10
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Smoothbrain-Groups/1.1.10/icon.png
+- manifestVersion: 1
+  name: Nextek-SpeedyPaths
+  authorName: Nextek
+  websiteUrl: https://valheim.thunderstore.io/package/Nextek/SpeedyPaths/
+  displayName: SpeedyPaths
+  description: Gives more purpose to paths. Increases player speed on paths and
+    constructions. Reduces stamina consumed while sprinting on paths. Exposes
+    optional modifiers for regular terrain in each biome. All values are
+    tuneable.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 6
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Nextek-SpeedyPaths/1.0.6/icon.png
+- manifestVersion: 1
+  name: RoundStone-RoundStoneScrollFirstPerson
+  authorName: RoundStone
+  websiteUrl: https://valheim.thunderstore.io/package/RoundStone/RoundStoneScrollFirstPerson/
+  displayName: RoundStoneScrollFirstPerson
+  description: Scroll the mouse wheel all the way in to enter first person mode.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1502
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/RoundStone-RoundStoneScrollFirstPerson/1.0.0/icon.png
+- manifestVersion: 1
+  name: ComfyMods-LicenseToKill
+  authorName: ComfyMods
+  websiteUrl: https://valheim.thunderstore.io/package/ComfyMods/LicenseToKill/
+  displayName: LicenseToKill
+  description: Prevents skill drain from a PVP death.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/ComfyMods-LicenseToKill/1.0.1/icon.png
+- manifestVersion: 1
+  name: chase000-ChaseMods_JumpAltersFallingDamage
+  authorName: chase000
+  websiteUrl: https://valheim.thunderstore.io/package/chase000/ChaseMods_JumpAltersFallingDamage/
+  displayName: ChaseMods_JumpAltersFallingDamage
+  description: Jump skill alters the falling damage calculation.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/chase000-ChaseMods_JumpAltersFallingDamage/1.1.1/icon.png
+- manifestVersion: 1
+  name: GemHunter1-CustomChestName
+  authorName: GemHunter1
+  websiteUrl: https://valheim.thunderstore.io/package/GemHunter1/CustomChestName/
+  displayName: CustomChestName
+  description: Rename chests for easier organizing.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/GemHunter1-CustomChestName/1.1.0/icon.png
+- manifestVersion: 1
+  name: MSchmoecker-FenceSnap
+  authorName: MSchmoecker
+  websiteUrl: https://valheim.thunderstore.io/package/MSchmoecker/FenceSnap/
+  displayName: FenceSnap
+  description: Adds snappoints to fences and sharp stakes
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1700
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/MSchmoecker-FenceSnap/0.1.1/icon.png
+- manifestVersion: 1
+  name: Neobotics-WolfPack
+  authorName: Neobotics
+  websiteUrl: https://valheim.thunderstore.io/package/Neobotics/WolfPack/
+  displayName: WolfPack
+  description: You've already tamed them. How about a little obedience training to
+    command all your wolves at once? - Now supporting local multiplayer and all
+    tame creatures!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 9
+    patch: 8
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Neobotics-WolfPack/0.9.8/icon.png
+- manifestVersion: 1
+  name: chase000-UnfrightenTamedAnimals
+  authorName: chase000
+  websiteUrl: https://valheim.thunderstore.io/package/chase000/UnfrightenTamedAnimals/
+  displayName: UnfrightenTamedAnimals
+  description: Tamed animals are no longer afraid of fire.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/chase000-UnfrightenTamedAnimals/0.1.0/icon.png
+- manifestVersion: 1
+  name: Menthus-Weightless_Coins
+  authorName: Menthus
+  websiteUrl: https://valheim.thunderstore.io/package/Menthus/Weightless_Coins/
+  displayName: Weightless_Coins
+  description: Makes coins weightless. Also comes with config if you want to
+    change the weight of the coins yourself.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Menthus-Weightless_Coins/1.0.0/icon.png
+- manifestVersion: 1
+  name: Neobotics-RequipMe
+  authorName: Neobotics
+  websiteUrl: https://valheim.thunderstore.io/package/Neobotics/RequipMe/
+  displayName: RequipMe
+  description: Instantly re-equip from your tombstone!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 3
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Neobotics-RequipMe/0.1.3/icon.png
+- manifestVersion: 1
+  name: GoldenJude-Mineshafts
+  authorName: GoldenJude
+  websiteUrl: https://valheim.thunderstore.io/package/GoldenJude/Mineshafts/
+  displayName: Mineshafts
+  description: Adds underground mining to valheim
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/GoldenJude-Mineshafts/1.0.4/icon.png
+- manifestVersion: 1
+  name: Xenofell-PreWorkout
+  authorName: Xenofell
+  websiteUrl: https://valheim.thunderstore.io/package/Xenofell/PreWorkout/
+  displayName: PreWorkout
+  description: Ever thought it was a bit silly that you were strongest after
+    devouring a full meal in Valheim rather than an hour or two later? This mod
+    removes the food degradation so you retain the food bonuses right until the
+    moment the food expires.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.601
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Xenofell-PreWorkout/0.2.0/icon.png
+- manifestVersion: 1
+  name: OdinPlus-OdinTrainingPlace
+  authorName: OdinPlus
+  websiteUrl: https://valheim.thunderstore.io/package/OdinPlus/OdinTrainingPlace/
+  displayName: OdinTrainingPlace
+  description: Training Place is just simple mod for additional pieces thanks to
+    which you can level up Your skills faster or just use them as decoration of
+    your village. If you're building lover this is definitely another mod for
+    you.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-OdinTrainingPlace/1.3.0/icon.png
+- manifestVersion: 1
+  name: OdinPlus-CraftyCartsRemake
+  authorName: OdinPlus
+  websiteUrl: https://valheim.thunderstore.io/package/OdinPlus/CraftyCartsRemake/
+  displayName: CraftyCartsRemake
+  description: Crafting stations on wheels!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 0
+    patch: 7
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-CraftyCartsRemake/3.0.7/icon.png
+- manifestVersion: 1
+  name: Advize-CartographySkill
+  authorName: Advize
+  websiteUrl: https://valheim.thunderstore.io/package/Advize/CartographySkill/
+  displayName: CartographySkill
+  description: Adds the cartography skill, allowing you to increase your map
+    explore radius as you uncover more of your map. Also allows you to craft a
+    functional spyglass to see things from afar.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Advize-CartographySkill/2.1.1/icon.png
+- manifestVersion: 1
+  name: tonsit-InteractWhileBuilding
+  authorName: tonsit
+  websiteUrl: https://valheim.thunderstore.io/package/tonsit/InteractWhileBuilding/
+  displayName: InteractWhileBuilding
+  description: Allows you to interact with objects in the world while in build mode.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/tonsit-InteractWhileBuilding/1.0.0/icon.png
+- manifestVersion: 1
+  name: Maximmus-Useful_Trophies
+  authorName: Maximmus
+  websiteUrl: https://valheim.thunderstore.io/package/Maximmus/Useful_Trophies/
+  displayName: Useful_Trophies
+  description: Improve your stats by consuming trophies while reducing inventory clutter!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Maximmus-Useful_Trophies/1.1.0/icon.png
+- manifestVersion: 1
+  name: GoldenJude-Blacksmiths_tools
+  authorName: GoldenJude
+  websiteUrl: https://valheim.thunderstore.io/package/GoldenJude/Blacksmiths_tools/
+  displayName: Blacksmiths_tools
+  description: Tool for hiding parts of the player model when equipping wearables,
+    also a fix for incorrectly deforming skinned meshes on custom items.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1700
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/GoldenJude-Blacksmiths_tools/2.0.2/icon.png
+- manifestVersion: 1
+  name: AeehyehssReeper-ChaosArmor
+  authorName: AeehyehssReeper
+  websiteUrl: https://valheim.thunderstore.io/package/AeehyehssReeper/ChaosArmor/
+  displayName: ChaosArmor
+  description: "Adds new set of armor featuring models and textures ported from
+    the abandoned Grim Age mod for Mount & Blade: Warband. Assets are based on
+    Warhammer Fantasy and are thus copyrighted as Derivative Works by Games
+    Workshop."
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+    - GoldenJude-Blacksmiths_tools-2.0.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 10
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/AeehyehssReeper-ChaosArmor/10.0.5/icon.png
+- manifestVersion: 1
+  name: GoldenJude-Judes_Equipment
+  authorName: GoldenJude
+  websiteUrl: https://valheim.thunderstore.io/package/GoldenJude/Judes_Equipment/
+  displayName: Judes_Equipment
+  description: Adds 9 new armor sets and 2 backpacks
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+    - GoldenJude-Blacksmiths_tools-2.0.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/GoldenJude-Judes_Equipment/2.2.0/icon.png
+- manifestVersion: 1
+  name: cjayride-AutoSplitStacks
+  authorName: cjayride
+  websiteUrl: https://valheim.thunderstore.io/package/cjayride/AutoSplitStacks/
+  displayName: AutoSplitStacks
+  description: Split a stack of items in half with [Shift] + [Right Click]
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1700
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/cjayride-AutoSplitStacks/0.2.0/icon.png
+- manifestVersion: 1
+  name: nearbear-BetterAutoRun
+  authorName: nearbear
+  websiteUrl: https://valheim.thunderstore.io/package/nearbear/BetterAutoRun/
+  displayName: BetterAutoRun
+  description: Enables strafing, crouching, jumping, configurable auto sprint, and
+    button-free mouse control for autorun
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.800
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/nearbear-BetterAutoRun/1.0.3/icon.png
+- manifestVersion: 1
+  name: Menthus-Placement_Unlocked
+  authorName: Menthus
+  websiteUrl: https://valheim.thunderstore.io/package/Menthus/Placement_Unlocked/
+  displayName: Placement_Unlocked
+  description: Allows campfires, cooking stations, cauldrons, bonefires, hearths,
+    smelters, blast furnaces, charcoal kilns, and windmills to be placed on
+    wooden structures.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Menthus-Placement_Unlocked/1.0.0/icon.png
+- manifestVersion: 1
+  name: Grisch-GatheringSkillRedux
+  authorName: Grisch
+  websiteUrl: https://valheim.thunderstore.io/package/Grisch/GatheringSkillRedux/
+  displayName: GatheringSkillRedux
+  description: Skill that increases yield of foraged items. Also displays how long
+    until a pickable (non-farmed) resource respawns.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 6
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Grisch-GatheringSkillRedux/1.0.6/icon.png
+- manifestVersion: 1
+  name: MSchmoecker-PressurePlate
+  authorName: MSchmoecker
+  websiteUrl: https://valheim.thunderstore.io/package/MSchmoecker/PressurePlate/
+  displayName: PressurePlate
+  description: A pressure plate for opening and closing doors
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+    - ValheimModding-Jotunn-2.7.7
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 7
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/MSchmoecker-PressurePlate/0.7.0/icon.png
+- manifestVersion: 1
+  name: Smoothbrain-Sailing
+  authorName: Smoothbrain
+  websiteUrl: https://valheim.thunderstore.io/package/Smoothbrain/Sailing/
+  displayName: Sailing
+  description: Adds a skill that increases the health of ships, sailing speed and
+    exploration radius while sailing.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 3
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Smoothbrain-Sailing/1.1.3/icon.png
+- manifestVersion: 1
+  name: Smoothbrain-Ranching
+  authorName: Smoothbrain
+  websiteUrl: https://valheim.thunderstore.io/package/Smoothbrain/Ranching/
+  displayName: Ranching
+  description: Adds a skill that makes taming animals faster and increases item
+    yield of tamed creatures.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Smoothbrain-Ranching/1.1.0/icon.png
+- manifestVersion: 1
+  name: DasSauerkraut-Terraheim
+  authorName: DasSauerkraut
+  websiteUrl: https://valheim.thunderstore.io/package/DasSauerkraut/Terraheim/
+  displayName: Terraheim
+  description: Terraheim is an overhaul for Valheim's armor system. It also fills
+    in gaps in the weapon roster.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.901
+    - ValheimModding-Jotunn-2.0.8
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/DasSauerkraut-Terraheim/2.2.0/icon.png
+- manifestVersion: 1
+  name: neurodr0me-RRRCore
+  authorName: neurodr0me
+  websiteUrl: https://valheim.thunderstore.io/package/neurodr0me/RRRCore/
+  displayName: RRRCore
+  description: Core library used by my other mods.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 12
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/neurodr0me-RRRCore/2.12.0/icon.png
+- manifestVersion: 1
+  name: ASharpPen-Spawn_That
+  authorName: ASharpPen
+  websiteUrl: https://valheim.thunderstore.io/package/ASharpPen/Spawn_That/
+  displayName: Spawn_That
+  description: Advanced tool for customizing mob spawners throughout the world
+    with configuration files.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 4
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/ASharpPen-Spawn_That/1.1.4/icon.png
+- manifestVersion: 1
+  name: ASharpPen-Drop_That
+  authorName: ASharpPen
+  websiteUrl: https://valheim.thunderstore.io/package/ASharpPen/Drop_That/
+  displayName: Drop_That
+  description: Tool for configuring loot tables.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 3
+    patch: 3
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/ASharpPen-Drop_That/2.3.3/icon.png
+- manifestVersion: 1
+  name: neurodr0me-RRRNpcs
+  authorName: neurodr0me
+  websiteUrl: https://valheim.thunderstore.io/package/neurodr0me/RRRNpcs/
+  displayName: RRRNpcs
+  description: Adds non-player humans to the game, with custom humans via JSON config.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - neurodr0me-RRRCore-0.2.8
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 3
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/neurodr0me-RRRNpcs/0.2.3/icon.png
+- manifestVersion: 1
+  name: neurodr0me-RRRMonsters
+  authorName: neurodr0me
+  websiteUrl: https://valheim.thunderstore.io/package/neurodr0me/RRRMonsters/
+  displayName: RRRMonsters
+  description: Adds new monsters and enables custom monsters via JSON configs.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - neurodr0me-RRRCore-0.2.8
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/neurodr0me-RRRMonsters/2.2.1/icon.png
+- manifestVersion: 1
+  name: MonsterLabZ-MonsterLabZ
+  authorName: MonsterLabZ
+  websiteUrl: https://valheim.thunderstore.io/package/MonsterLabZ/MonsterLabZ/
+  displayName: MonsterLabZ
+  description: Explore Valheim with new monsters to fight!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 8
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/MonsterLabZ-MonsterLabZ/2.8.0/icon.png
+- manifestVersion: 1
+  name: ASharpPen-Custom_Raids
+  authorName: ASharpPen
+  websiteUrl: https://valheim.thunderstore.io/package/ASharpPen/Custom_Raids/
+  displayName: Custom_Raids
+  description: Customize raid events, override existing, extend with your own raids.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 6
+    patch: 2
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/ASharpPen-Custom_Raids/1.6.2/icon.png
+- manifestVersion: 1
+  name: MonsternomiconREUP-Monsternomicon
+  authorName: MonsternomiconREUP
+  websiteUrl: https://valheim.thunderstore.io/package/MonsternomiconREUP/Monsternomicon/
+  displayName: Monsternomicon
+  description: An ever-expanding list of new enemies to enrich the game experience
+    with fresh challenges. Re-Upload of March 28th 2022 update from Belasias on
+    Nexus Mods.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - ASharpPen-Custom_Raids-1.4.0
+    - MonsterLabZ-MonsterLabZ-1.7.0
+    - neurodr0me-RRRMonsters-2.2.1
+    - neurodr0me-RRRNpcs-0.2.3
+    - ASharpPen-Drop_That-2.3.3
+    - ASharpPen-Spawn_That-0.11.6
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 6
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/MonsternomiconREUP-Monsternomicon/1.0.6/icon.png
+- manifestVersion: 1
+  name: Goober-Forgotten_Biomes
+  authorName: Goober
+  websiteUrl: https://valheim.thunderstore.io/package/Goober/Forgotten_Biomes/
+  displayName: Forgotten_Biomes
+  description: Add some variety in AshLands and DeepNorth biomes.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 18
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Goober-Forgotten_Biomes/0.0.18/icon.png
+- manifestVersion: 1
+  name: ishid4-BetterArchery
+  authorName: ishid4
+  websiteUrl: https://valheim.thunderstore.io/package/ishid4/BetterArchery/
+  displayName: BetterArchery
+  description: Adds many features and changes to bow gameplay.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1501
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 7
+    patch: 6
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/ishid4-BetterArchery/1.7.6/icon.png
+- manifestVersion: 1
+  name: valheimgc-BetterArcheryEAQSFix
+  authorName: valheimgc
+  websiteUrl: https://valheim.thunderstore.io/package/valheimgc/BetterArcheryEAQSFix/
+  displayName: BetterArcheryEAQSFix
+  description: Valheim mod attempting to fix item loss bug when using Better
+    Archery alongside Equipment and Quick Slots. All credit goes to jsza.
+    Reupload from NexusMods
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1501
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/valheimgc-BetterArcheryEAQSFix/0.0.1/icon.png
+- manifestVersion: 1
+  name: OdinPlus-ForsakenJVL
+  authorName: OdinPlus
+  websiteUrl: https://valheim.thunderstore.io/package/OdinPlus/ForsakenJVL/
+  displayName: ForsakenJVL
+  description: A port of Forsaken to JVL
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1700
+    - ValheimModding-Jotunn-2.4.6
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 2
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-ForsakenJVL/1.2.2/icon.png
+- manifestVersion: 1
+  name: makail-Skyheim
+  authorName: makail
+  websiteUrl: https://valheim.thunderstore.io/package/makail/Skyheim/
+  displayName: Skyheim
+  description: Skyheim is a magic mod aimed at providing balanced progression and
+    a reason to go back and slay bosses. Unleash magic both destructive and
+    beneficial!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/makail-Skyheim/1.1.1/icon.png
+- manifestVersion: 1
+  name: posixone-SkyheimExtended
+  authorName: posixone
+  websiteUrl: https://valheim.thunderstore.io/package/posixone/SkyheimExtended/
+  displayName: SkyheimExtended
+  description: SkyheimExtended intercepts interesting code from Skyheim and
+    injects custom code replacing Skyheim's original code.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - makail-Skyheim-1.1.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/posixone-SkyheimExtended/1.0.4/icon.png
+- manifestVersion: 1
+  name: KGvalheim-MagicOverhaul
+  authorName: KGvalheim
+  websiteUrl: https://valheim.thunderstore.io/package/KGvalheim/MagicOverhaul/
+  displayName: MagicOverhaul
+  description: "[UPDATED H&H] Mod adds 14 classes with unique Spells , new custom
+    player animations and UI - NOW WITH CONFIGURATION (Server Sync)"
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 594
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/KGvalheim-MagicOverhaul/1.5.594/icon.png
+- manifestVersion: 1
+  name: NotMyMods-CombatOverhaul_HHPatch
+  authorName: NotMyMods
+  websiteUrl: https://valheim.thunderstore.io/package/NotMyMods/CombatOverhaul_HHPatch/
+  displayName: CombatOverhaul_HHPatch
+  description: Reupload from NexusMods - **PROVIDED AS IS** - A slight rework of
+    leseryk's Valheim Combat Overhaul to make it work with the Hearth and Home
+    update.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/NotMyMods-CombatOverhaul_HHPatch/0.0.1/icon.png
+- manifestVersion: 1
+  name: neurodr0me-RRRBetterRaids
+  authorName: neurodr0me
+  websiteUrl: https://valheim.thunderstore.io/package/neurodr0me/RRRBetterRaids/
+  displayName: RRRBetterRaids
+  description: Enhances the raid system to make base defense actually matter.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - neurodr0me-RRRCore-2.8.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/neurodr0me-RRRBetterRaids/2.2.0/icon.png
+- manifestVersion: 1
+  name: Smoothbrain-Resurrection
+  authorName: Smoothbrain
+  websiteUrl: https://valheim.thunderstore.io/package/Smoothbrain/Resurrection/
+  displayName: Resurrection
+  description: Lets you open a portal to hell, to drag your friends back into the
+    world of the living.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Smoothbrain-Resurrection/1.0.3/icon.png
+- manifestVersion: 1
+  name: purpledxd-Locator
+  authorName: purpledxd
+  websiteUrl: https://valheim.thunderstore.io/package/purpledxd/Locator/
+  displayName: Locator
+  description: Finds and pins various Valheim locations / entities on the minimap!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.701
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 8
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/purpledxd-Locator/1.0.8/icon.png
+- manifestVersion: 1
+  name: virtuaCode-EmoteWheel
+  authorName: virtuaCode
+  websiteUrl: https://valheim.thunderstore.io/package/virtuaCode/EmoteWheel/
+  displayName: EmoteWheel
+  description: This mod adds an user interface for emote animations to let them be
+    used in an easier and faster way.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.800
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/virtuaCode-EmoteWheel/1.3.1/icon.png
+- manifestVersion: 1
+  name: billw2012-BetterContinents
+  authorName: billw2012
+  websiteUrl: https://valheim.thunderstore.io/package/billw2012/BetterContinents/
+  displayName: BetterContinents
+  description: This mod provides the tools to both improve the standard terrain
+    generation of the game, and override aspects of it with image maps, allowing
+    precise control over height, biomes, location placement, and forest
+    coverage.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 7
+    patch: 4
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/billw2012-BetterContinents/0.7.4/icon.png
+- manifestVersion: 1
+  name: pipakin-SkillInjector
+  authorName: pipakin
+  websiteUrl: https://valheim.thunderstore.io/package/pipakin/SkillInjector/
+  displayName: SkillInjector
+  description: Injects new skills in a simple way for mod authors.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.800
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/pipakin-SkillInjector/1.1.1/icon.png
+- manifestVersion: 1
+  name: Advize-PlantEverything
+  authorName: Advize
+  websiteUrl: https://valheim.thunderstore.io/package/Advize/PlantEverything/
+  displayName: PlantEverything
+  description: Allows your cultivator to plant berry bushes, thistle, dandelions,
+    mushrooms, previously unavailable tree types, and other decorative flora.
+    Includes many other miscellaneous features (see description). Highly
+    configurable with localization support.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 11
+    patch: 6
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Advize-PlantEverything/1.11.6/icon.png
+- manifestVersion: 1
+  name: RockerKitten-BoneAppetit
+  authorName: RockerKitten
+  websiteUrl: https://valheim.thunderstore.io/package/RockerKitten/BoneAppetit/
+  displayName: BoneAppetit
+  description: New food and cooking stations!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+    - ValheimModding-Jotunn-2.7.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/RockerKitten-BoneAppetit/3.2.0/icon.png
+- manifestVersion: 1
+  name: Frenvius-Valharvest
+  authorName: Frenvius
+  websiteUrl: https://valheim.thunderstore.io/package/Frenvius/Valharvest/
+  displayName: Valharvest
+  description: New plants and foods!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1100
+    - ValheimModding-Jotunn-2.3.7
+    - RockerKitten-BoneAppetit-3.0.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Frenvius-Valharvest/2.0.1/icon.png
+- manifestVersion: 1
+  name: k942-MassFarming
+  authorName: k942
+  websiteUrl: https://valheim.thunderstore.io/package/k942/MassFarming/
+  displayName: MassFarming
+  description: Mod to assist with large scale farming in Valheim
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1501
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/k942-MassFarming/1.3.0/icon.png
+- manifestVersion: 1
+  name: Smoothbrain-CreatureLevelAndLootControl
+  authorName: Smoothbrain
+  websiteUrl: https://valheim.thunderstore.io/package/Smoothbrain/CreatureLevelAndLootControl/
+  displayName: CreatureLevelAndLootControl
+  description: Puts YOU in control of creature level and loot!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 4
+    minor: 4
+    patch: 13
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Smoothbrain-CreatureLevelAndLootControl/4.4.13/icon.png
+- manifestVersion: 1
+  name: ASharpPen-This_Goes_Here
+  authorName: ASharpPen
+  websiteUrl: https://valheim.thunderstore.io/package/ASharpPen/This_Goes_Here/
+  displayName: This_Goes_Here
+  description: Small mod for mod authors to run file operations in bepinex folders.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1700
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/ASharpPen-This_Goes_Here/2.1.1/icon.png
+- manifestVersion: 1
+  name: FixItFelix-CreatureLeveLAndLootControl_fix
+  authorName: FixItFelix
+  websiteUrl: https://valheim.thunderstore.io/package/FixItFelix/CreatureLeveLAndLootControl_fix/
+  displayName: CreatureLeveLAndLootControl_fix
+  description: Delete the default YAML provided inside the plugins folder to avoid
+    misconfiguration in single player use.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - ASharpPen-This_Goes_Here-1.2.0
+    - Smoothbrain-CreatureLevelAndLootControl-4.4.5
+    - denikson-BepInExPack_Valheim-5.4.1700
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/FixItFelix-CreatureLeveLAndLootControl_fix/1.0.1/icon.png
+- manifestVersion: 1
+  name: FixItFelix-CreatureLeveLAndLootControl_itemconfig
+  authorName: FixItFelix
+  websiteUrl: https://valheim.thunderstore.io/package/FixItFelix/CreatureLeveLAndLootControl_itemconfig/
+  displayName: CreatureLeveLAndLootControl_itemconfig
+  description: Item configs for CLLC mod with item lists for various other mods
+    that introduce new items to the game, check Readme for installation and
+    features
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - Smoothbrain-CreatureLevelAndLootControl-4.4.5
+    - FixItFelix-CreatureLeveLAndLootControl_fix-1.0.0
+    - denikson-BepInExPack_Valheim-5.4.1601
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 7
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/FixItFelix-CreatureLeveLAndLootControl_itemconfig/1.2.7/icon.png
+- manifestVersion: 1
+  name: LVH-IT-UseEquipmentInWater
+  authorName: LVH-IT
+  websiteUrl: https://valheim.thunderstore.io/package/LVH-IT/UseEquipmentInWater/
+  displayName: UseEquipmentInWater
+  description: Allows you to use your Equipment while swimming in water
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 3
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/LVH-IT-UseEquipmentInWater/0.2.3/icon.png
+- manifestVersion: 1
+  name: ValheimModding-HookGenPatcher
+  authorName: ValheimModding
+  websiteUrl: https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher/
+  displayName: HookGenPatcher
+  description: Generates MonoMod.RuntimeDetour.HookGen's MMHOOK file during the
+    BepInEx preloader phase.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1502
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/ValheimModding-HookGenPatcher/0.0.3/icon.png
+- manifestVersion: 1
+  name: MathiasDecrock-PlanBuild
+  authorName: MathiasDecrock
+  websiteUrl: https://valheim.thunderstore.io/package/MathiasDecrock/PlanBuild/
+  displayName: PlanBuild
+  description: PlanBuild enables you to plan, copy and share your building
+    creations in Valheim with ease. Includes terrain tools and immersion items.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+    - ValheimModding-Jotunn-2.7.7
+    - ValheimModding-HookGenPatcher-0.0.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 11
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/MathiasDecrock-PlanBuild/0.11.0/icon.png
+- manifestVersion: 1
+  name: Horem-DoOrDieMonsters
+  authorName: Horem
+  websiteUrl: https://valheim.thunderstore.io/package/Horem/DoOrDieMonsters/
+  displayName: DoOrDieMonsters
+  description: Adds vanilla monster re-skins and abilities, crafting materials and
+    items. Read the description. Resistance is futile...
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - ValheimModding-Jotunn-2.6.7
+    - ASharpPen-Spawn_That-1.0.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 7
+    patch: 3
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Horem-DoOrDieMonsters/0.7.3/icon.png
+- manifestVersion: 1
+  name: Horem-Do_or_Die_Items
+  authorName: Horem
+  websiteUrl: https://valheim.thunderstore.io/package/Horem/Do_or_Die_Items/
+  displayName: Do_or_Die_Items
+  description: Adds shields, weapons and kits for the Do or Die Solo Experience modpack.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - ValheimModding-Jotunn-2.6.0
+    - Horem-DoOrDieMonsters-0.5.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 12
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Horem-Do_or_Die_Items/0.1.12/icon.png
+- manifestVersion: 1
+  name: OdinPlus-OdinArchitect
+  authorName: OdinPlus
+  websiteUrl: https://valheim.thunderstore.io/package/OdinPlus/OdinArchitect/
+  displayName: OdinArchitect
+  description: Odin Architect is a mod that will allow you to build more with more
+    structures and on a larger scale. You will find here not only larger
+    counterparts of basic buildings but also completely new ones
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1600
+    - ValheimModding-Jotunn-2.3.7
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 3
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/OdinPlus-OdinArchitect/0.1.3/icon.png
+- manifestVersion: 1
+  name: 1010101110-multiplayerboatdamage
+  authorName: "1010101110"
+  websiteUrl: https://valheim.thunderstore.io/package/1010101110/multiplayerboatdamage/
+  displayName: multiplayerboatdamage
+  description: Client side bugfix for boats that get constantly damaged in
+    multiplayer servers.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.602
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/1010101110-multiplayerboatdamage/0.0.1/icon.png
+- manifestVersion: 1
+  name: Comoyi-SleepPlease
+  authorName: Comoyi
+  websiteUrl: https://valheim.thunderstore.io/package/Comoyi/SleepPlease/
+  displayName: SleepPlease
+  description: This is a MOD that prompts sleep info
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 8
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Comoyi-SleepPlease/1.0.8/icon.png
+- manifestVersion: 1
+  name: Gratak-VitalityRewrite
+  authorName: Gratak
+  websiteUrl: https://valheim.thunderstore.io/package/Gratak/VitalityRewrite/
+  displayName: VitalityRewrite
+  description: By running, swimming, jumping, mining, woodcutting and not dying ;)
+    you can increase your Vitality skill which improves many base attributes of
+    your character.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1900
+    - pipakin-SkillInjector-1.1.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Gratak-VitalityRewrite/1.0.1/icon.png
+- manifestVersion: 1
+  name: Huntardys-EpicValheimsAdditions
+  authorName: Huntardys
+  websiteUrl: https://valheim.thunderstore.io/package/Huntardys/EpicValheimsAdditions/
+  displayName: EpicValheimsAdditions
+  description: ﻿Adds 3 new tiers of Weapons / Shields / Tools, Custom Bosses,
+    Custom Boss Altars, Custom Minibosses, Gatherable Ores / Resources, to the
+    Mistlands/Deepnorth/Ashlands. EVA , Epic Valheim Additions ,
+    EpicValheimAdditions , Epic_Valheim_Additions
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - ValheimModding-Jotunn-2.7.4
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 8
+    patch: 3
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Huntardys-EpicValheimsAdditions/1.8.3/icon.png
+- manifestVersion: 1
+  name: MSchmoecker-MultiUserChest
+  authorName: MSchmoecker
+  websiteUrl: https://valheim.thunderstore.io/package/MSchmoecker/MultiUserChest/
+  displayName: MultiUserChest
+  description: Allows multiple players to interact with the same chest at the same time
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+    - ValheimModding-Jotunn-2.7.8
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 4
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/MSchmoecker-MultiUserChest/0.2.4/icon.png
+- manifestVersion: 1
+  name: CW_Jesse-BetterNetworking_Valheim
+  authorName: CW_Jesse
+  websiteUrl: https://valheim.thunderstore.io/package/CW_Jesse/BetterNetworking_Valheim/
+  displayName: BetterNetworking_Valheim
+  description: If you've been experiencing lag or desync when playing with your
+    friends, this is the solution!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 201
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/CW_Jesse-BetterNetworking_Valheim/1.2.201/icon.png
+- manifestVersion: 1
+  name: Smoothbrain-ServerCharacters
+  authorName: Smoothbrain
+  websiteUrl: https://valheim.thunderstore.io/package/Smoothbrain/ServerCharacters/
+  displayName: ServerCharacters
+  description: Saves your character on the server, instead of your computer, to
+    prevent you from messing with it.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.1901
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 1
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/Smoothbrain-ServerCharacters/1.3.1/icon.png
+- manifestVersion: 1
+  name: MrPurple6411-NoStaminaSneak
+  authorName: MrPurple6411
+  websiteUrl: https://valheim.thunderstore.io/package/MrPurple6411/NoStaminaSneak/
+  displayName: NoStaminaSneak
+  description: This is a Bepinex mod for Valheim that removes the Stamina cost for
+    moving while sneaking.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - denikson-BepInExPack_Valheim-5.4.600
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/Valheim/cache/MrPurple6411-NoStaminaSneak/1.0.0/icon.png

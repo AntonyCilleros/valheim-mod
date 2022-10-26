@@ -1,0 +1,9 @@
+{
+    "name": "AutoSplitStacks",
+    "version_number": "0.2.0",
+    "website_url": "https://github.com/aedenthorn/ValheimMods/tree/master/AutoSplitStack",
+    "description": "Split a stack of items in half with [Shift] + [Right Click]",
+    "dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.1700"
+    ]
+}

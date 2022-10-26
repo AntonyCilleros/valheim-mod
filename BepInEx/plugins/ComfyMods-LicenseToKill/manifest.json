@@ -1,0 +1,10 @@
+{
+    "name": "LicenseToKill",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/ajwhite/ValheimMods/tree/master/LicenseToKill",
+    "author": "ComfyMods",
+    "description": "Prevents skill drain from a PVP death.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1901"
+    ]
+}

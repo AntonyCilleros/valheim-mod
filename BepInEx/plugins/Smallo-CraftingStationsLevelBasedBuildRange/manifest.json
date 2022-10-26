@@ -1,0 +1,9 @@
+{
+    "name": "CraftingStationsLevelBasedBuildRange",
+    "version_number": "1.5.0",
+    "website_url": "",
+    "description": "This is a simple mod that increases the range of your crafting stations build ability depending on their levels. You can also set the default value for a level 1 crafting station (vanilla is 20).",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.701"
+    ]
+}

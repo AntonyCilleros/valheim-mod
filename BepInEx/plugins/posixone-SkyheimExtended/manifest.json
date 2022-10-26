@@ -1,0 +1,9 @@
+{
+    "name": "SkyheimExtended",
+    "version_number": "1.0.4",
+    "website_url": "",
+    "description": "SkyheimExtended intercepts interesting code from Skyheim and injects custom code replacing Skyheim's original code.",
+    "dependencies": [
+		"makail-Skyheim-1.1.1"
+    ]
+}

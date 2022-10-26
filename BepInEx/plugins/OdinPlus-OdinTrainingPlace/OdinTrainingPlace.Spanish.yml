@@ -1,0 +1,38 @@
+# Items
+## Item names and descriptions
+
+Odin_Vitamin: "Vitamina de Odín"
+Odin_Vitamin_desc: "Vitamina de Odín es una fórmula única que te ayuda a entrenar durante un par de minutos (+150% a la ganancia de EXP en todas las habilidades) y aumenta en gran medida tu regeneración de resistencia, pero a cambio serás muy débil para cualquier daño y causarás daño negativo. Esta poción es ideal para usar en el lugar de entrenamiento."
+
+Odin_Vitamin_Run: "Vitamina de Odín - Correr"
+Odin_Vitamin_Run_desc: "Vitamina de Odín es una fórmula única que te ayuda a entrenar durante un par de minutos (+500% a la habilidad correr) y aumenta en gran medida tu regeneración de resistencia, pero a cambio serás muy débil para cualquier daño y causarás daño negativo. Esta poción es ideal para usar en el lugar de entrenamiento."
+
+Odin_Vitamin_Sneak: "Vitamina de Odín - Sigilo"
+Odin_Vitamin_Sneak_desc: "Vitamina de Odin es una fórmula única que te ayuda a entrenar durante un par de minutos (+500% a la habilidad sigilo) y aumenta en gran medida tu regeneración de stamina, pero a cambio serás muy débil para cualquier daño y harás daño negativo. Esta poción es ideal para usar en el lugar de entrenamiento."
+
+Odin_Vitamin_Swim: "Vitamina de Odín - Nadar"
+Odin_Vitamin_Swim_desc: "Vitamina de Odin es una fórmula única que te ayuda a entrenar durante un par de minutos (+500% a la habilidad nadar) y aumenta enormemente tu regeneración de stamina, pero a cambio serás muy débil para cualquier daño y causarás daño negativo. Esta poción es ideal para usar en el lugar de entrenamiento."
+
+# Pieces
+## Buildable components
+
+Unnatural_Flint_Rock: "Roca de entrenamiento de sílex"
+Unnatural_Flint_Rock_desc: "Entrena tus habilidades con el pico."
+
+Running_Track: "Pista de atletismo"
+Running_Track_desc: "Pista de carrera tribal para entrenar las habilidades de correr y sigilo."
+
+Swimming_Pool: "Piscina"
+Swimming_Pool_desc: "Entrena tus habilidades de natación."
+
+Archery_Target: "Tiro con arco"
+Archery_Target_desc: "TEntrena tus habilidades con el arco."
+
+Wooden_Dummy: "Maniquí de madera"
+Wooden_Dummy_desc: "Entrena el combate cuerpo a cuerpo y las habilidades con las armas."
+
+Mechanical_Dummy: "Maniquí mecánico"
+Mechanical_Dummy_desc: "Entrena tus habilidades de bloqueo."
+
+Hard_Wooden_Pole: "Poste de madera"
+Hard_Wooden_Pole_desc: "Entrena tus habilidades para cortar."

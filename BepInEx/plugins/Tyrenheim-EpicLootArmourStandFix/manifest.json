@@ -1,0 +1,11 @@
+{
+    "name": "EpicLootArmourStandFix",
+    "version_number": "0.1.0",
+    "website_url": "https://discord.gg/srEVGkDRWJ",
+    "description": "A patch for EpicLoot to fix Armour Stand behaviour",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1900",
+        "RandyKnapp-EpicLoot-0.8.8",
+        "RandyKnapp-ExtendedItemDataFramework-1.0.7"
+    ]
+}

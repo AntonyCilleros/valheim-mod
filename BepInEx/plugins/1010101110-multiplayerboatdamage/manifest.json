@@ -1,0 +1,9 @@
+{
+    "name": "multiplayerboatdamage",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/1010101110",
+    "description": "Client side bugfix for boats that get constantly damaged in multiplayer servers.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.602"
+    ]
+}

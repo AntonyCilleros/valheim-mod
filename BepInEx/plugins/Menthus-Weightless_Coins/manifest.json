@@ -1,0 +1,9 @@
+{
+    "name": "Weightless_Coins",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Makes coins weightless. Also comes with config if you want to change the weight of the coins yourself.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.901"
+    ]
+}

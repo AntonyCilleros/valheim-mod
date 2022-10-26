@@ -1,0 +1,9 @@
+{
+    "name": "CustomChestName",
+    "version_number": "1.1.0",
+    "website_url": "https://www.nexusmods.com/valheim/mods/1781",
+    "description": "Rename chests for easier organizing.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1900"
+    ]
+}

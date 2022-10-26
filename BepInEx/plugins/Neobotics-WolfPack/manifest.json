@@ -1,0 +1,9 @@
+{
+  "name": "WolfPack",
+  "description": "You've already tamed them. How about a little obedience training to command all your wolves at once? - Now supporting local multiplayer and all tame creatures!",
+  "version_number": "0.9.8",
+  "website_url": "https://www.nexusmods.com/valheim/mods/1549/",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1600"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "CreatureLeveLAndLootControl_fix",
+	"description": "Delete the default YAML provided inside the plugins folder to avoid misconfiguration in single player use.",
+	"version_number": "1.0.1",
+	"website_url": "https://github.com/FelixReuthlinger/cllc-itemconfigs",
+	"dependencies": [
+		"ASharpPen-This_Goes_Here-1.2.0",
+		"Smoothbrain-CreatureLevelAndLootControl-4.4.5",
+		"denikson-BepInExPack_Valheim-5.4.1700"
+	]
+}

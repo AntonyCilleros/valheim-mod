@@ -1,0 +1,9 @@
+{
+    "name": "ConfigurationManager",
+    "version_number": "0.5.0",
+    "website_url": "https://github.com/aedenthorn/ValheimMods/tree/master/ConfigurationManager",
+    "description": "Edit your configs in game.",
+    "dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.1700"
+    ]
+}

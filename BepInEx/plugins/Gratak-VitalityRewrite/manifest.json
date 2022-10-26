@@ -1,0 +1,10 @@
+{
+    "name": "VitalityRewrite",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Gra-tak/ValheimVitalityRewrite",
+    "description": "By running, swimming, jumping, mining, woodcutting and not dying ;) you can increase your Vitality skill which improves many base attributes of your character.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1900",
+        "pipakin-SkillInjector-1.1.1"
+    ]
+}

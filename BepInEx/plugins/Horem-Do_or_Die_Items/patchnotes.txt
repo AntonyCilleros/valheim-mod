@@ -1,0 +1,61 @@
+0.1.12
+
+	Fixed Valhallium Ore and Bars getting mixed up.
+
+0.1.11
+
+	Added option for anvils to effect Thors Forge from EVA.
+
+0.1.10
+
+	Added Config for the single ores.
+
+0.1.9
+
+	For reals, config fix.
+
+0.1.8
+
+	Config fix.
+
+0.1.7
+
+	Minor Bugfix.
+
+0.1.6
+
+	Stagger/Block fix for Weapons.
+
+0.1.5
+
+	Bug fixing.
+
+0.1.4
+
+	Bug fix.
+
+0.1.3
+
+	Fix for Felmetal and Frometal Deposits causing NRE's.
+	Fixed mocks that were pulling vanilla materials/sounds into the bundle.
+
+0.1.2
+
+	Added a check to see if the shields have already been added. 
+
+0.1.1
+
+	DoD Biomes dependancy removed.
+
+0.1.0
+
+	Added/Moved Ores and Metals from DoD Biomes.
+
+0.0.2
+
+- Added Priest Essence and Staff.
+- Added Spartan Essence and Sword.
+
+0.0.1
+
+- Initial Release.

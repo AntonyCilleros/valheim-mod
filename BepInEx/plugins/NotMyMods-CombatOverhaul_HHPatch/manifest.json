@@ -1,0 +1,10 @@
+{
+    "name": "CombatOverhaul_HHPatch",
+    "version_number": "0.0.1",
+    "website_url": "https://www.nexusmods.com/valheim/mods/591",
+    "author": "YperiteFairy",
+	"description": "Reupload from NexusMods - **PROVIDED AS IS** - A slight rework of leseryk's Valheim Combat Overhaul to make it work with the Hearth and Home update. ",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.901"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Do_or_Die_Items",
+    "version_number": "0.1.12",
+    "website_url": "https://discord.gg/BYtsnyHNke",
+    "description": "Adds shields, weapons and kits for the Do or Die Solo Experience modpack.",
+    "dependencies": [ 
+			"ValheimModding-Jotunn-2.6.0", 
+			"Horem-DoOrDieMonsters-0.5.0"
+			]
+}

@@ -1,0 +1,4 @@
+PrintComment: Removing some CLLC default config that cannot be overwritten in single player
+DeleteFile:
+- plugins/Smoothbrain-CreatureLevelAndLootControl/CreatureConfig.yml
+- plugins/Smoothbrain-CreatureLevelAndLootControl/ItemConfig.yml

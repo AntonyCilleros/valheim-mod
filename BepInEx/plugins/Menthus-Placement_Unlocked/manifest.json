@@ -1,0 +1,9 @@
+{
+    "name": "Placement_Unlocked",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Allows campfires, cooking stations, cauldrons, bonefires, hearths, smelters, blast furnaces, charcoal kilns, and windmills to be placed on wooden structures.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.901"
+    ]
+}

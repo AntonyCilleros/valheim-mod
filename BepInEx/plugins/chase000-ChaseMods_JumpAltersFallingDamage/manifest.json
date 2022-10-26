@@ -1,0 +1,7 @@
+﻿{
+	"name": "ChaseMods_JumpAltersFallingDamage",
+	"version_number": "1.1.1",
+	"website_url": "",
+	"description": "Jump skill alters the falling damage calculation.",
+	"dependencies": []
+}

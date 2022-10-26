@@ -1,0 +1,9 @@
+{
+    "name": "Locator",
+    "version_number": "1.0.8",
+    "website_url": "https://www.nexusmods.com/valheim/mods/182",
+    "description": "Finds and pins various Valheim locations / entities on the minimap!",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.701"
+    ]
+}

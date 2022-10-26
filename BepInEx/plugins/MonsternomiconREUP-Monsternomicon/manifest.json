@@ -1,0 +1,15 @@
+{
+    "name": "Monsternomicon",
+    "version_number": "1.0.6",
+    "website_url": "https://www.nexusmods.com/valheim/mods/1166",
+    "description": "An ever-expanding list of new enemies to enrich the game experience with fresh challenges. Re-Upload of March 28th 2022 update from Belasias on Nexus Mods.",
+    "dependencies": [
+       "ASharpPen-Custom_Raids-1.4.0",
+       "MonsterLabZ-MonsterLabZ-1.7.0",
+       "neurodr0me-RRRMonsters-2.2.1",
+       "neurodr0me-RRRNpcs-0.2.3",
+       "ASharpPen-Drop_That-2.3.3",
+       "ASharpPen-Spawn_That-0.11.6"
+    ]
+}
+

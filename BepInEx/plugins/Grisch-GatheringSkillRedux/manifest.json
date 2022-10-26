@@ -1,0 +1,9 @@
+﻿{
+  "name": "GatheringSkillRedux",
+  "version_number": "1.0.6",
+  "website_url": "https://discord.gg/y2pgr6B4YP",
+  "description": "Skill that increases yield of foraged items. Also displays how long until a pickable (non-farmed) resource respawns.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1900"
+  ]
+}

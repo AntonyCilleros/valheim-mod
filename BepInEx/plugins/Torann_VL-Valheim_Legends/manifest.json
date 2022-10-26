@@ -1,0 +1,9 @@
+﻿{
+  "name": "Valheim_Legends",
+  "description": "Adds selectable hero classes to the game, each with unique abilities and skills.",
+  "version_number": "0.4.5",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1901"
+  ],
+  "website_url": "https://github.com/TorannD"
+}
