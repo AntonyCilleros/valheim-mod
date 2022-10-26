@@ -42,33 +42,33 @@
 [Info   :   BepInEx] Loading [Craft From Containers 2.2.4]
 [Info   :   BepInEx] Loading [Instant Monster Drop 0.4.0]
 [Info   :   BepInEx] Loading [Forgotten Biomes 0.0.18]
-[Info   : Unity Log] 10/25/2022 22:08:08: Forgotten_Biomes: loaded config from : C:\Users\anton\AppData\Roaming\Thunderstore Mod Manager\DataFolder\Valheim\profiles\Default\BepInEx\config\Forgotten_Biomes/ashlands.veg
+[Info   : Unity Log] 10/26/2022 23:22:52: Forgotten_Biomes: loaded config from : C:\Users\anton\AppData\Roaming\Thunderstore Mod Manager\DataFolder\Valheim\profiles\Default\BepInEx\config\Forgotten_Biomes/ashlands.veg
 
-[Info   : Unity Log] 10/25/2022 22:08:08: Forgotten_Biomes: loaded config from : C:\Users\anton\AppData\Roaming\Thunderstore Mod Manager\DataFolder\Valheim\profiles\Default\BepInEx\config\Forgotten_Biomes/deepnorth.veg
+[Info   : Unity Log] 10/26/2022 23:22:52: Forgotten_Biomes: loaded config from : C:\Users\anton\AppData\Roaming\Thunderstore Mod Manager\DataFolder\Valheim\profiles\Default\BepInEx\config\Forgotten_Biomes/deepnorth.veg
 
-[Info   : Unity Log] 10/25/2022 22:08:08: Forgotten_Biomes: loaded config from : C:\Users\anton\AppData\Roaming\Thunderstore Mod Manager\DataFolder\Valheim\profiles\Default\BepInEx\config\Forgotten_Biomes/mistlands.veg
+[Info   : Unity Log] 10/26/2022 23:22:52: Forgotten_Biomes: loaded config from : C:\Users\anton\AppData\Roaming\Thunderstore Mod Manager\DataFolder\Valheim\profiles\Default\BepInEx\config\Forgotten_Biomes/mistlands.veg
 
 [Info   :   BepInEx] Loading [EpicLootArmourStandFix 0.1.0]
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.13]
-[Info   : Unity Log] 10/25/2022 22:08:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:22:53: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:08:09: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:22:53: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:08:09: Loaded localization CSV:localization language:French
+[Info   : Unity Log] 10/26/2022 23:22:53: Loaded localization CSV:localization language:French
 
-[Info   : Unity Log] 10/25/2022 22:08:09: Loaded localization CSV:localization_extra language:French
+[Info   : Unity Log] 10/26/2022 23:22:53: Loaded localization CSV:localization_extra language:French
 
-[Info   : Unity Log] 10/25/2022 22:08:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:22:53: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:08:09: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:22:53: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:08:09: Loaded localization CSV:localization language:French
+[Info   : Unity Log] 10/26/2022 23:22:53: Loaded localization CSV:localization language:French
 
-[Info   : Unity Log] 10/25/2022 22:08:09: Loaded localization CSV:localization_extra language:French
+[Info   : Unity Log] 10/26/2022 23:22:53: Loaded localization CSV:localization_extra language:French
 
-[Info   : Unity Log] 10/25/2022 22:08:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:22:53: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:08:09: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:22:53: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.7]
 [Info   :   BepInEx] Loading [Epic Loot 0.8.9]
@@ -167,7 +167,7 @@
 [Info   :   BepInEx] Loading [ChestName 1.1.0]
 [Info   :   BepInEx] Loading [Useful Trophies Mod 1.0.1]
 [Info   :   BepInEx] Loading [BlacksmithTools 2.0.2]
-[Info   :   BepInEx] Loading [JudesEquipment 2.2.0]
+[Info   :   BepInEx] Loading [JudesEquipment 2.2.1]
 [Info   :   BepInEx] Loading [Mineshafts 1.0.4]
 [Info   :   BepInEx] Loading [Golem 0.0.7]
 [Info   : Unity Log] Loading Golem
@@ -428,7 +428,7 @@ UnityEngine.Application:.cctor()
 [Info   :   BepInEx] Loading [Crafting Station Level Range 1.5.0]
 [Info   :   BepInEx] Loading [SurtlingBoat 1.0.0.0]
 [Info   :   BepInEx] Loading [ValheimLegends 0.4.5]
-[Info   : Unity Log] 10/25/2022 22:09:20: Valheim Legends attempting to find VLAssets in the directory with C:\Users\anton\AppData\Roaming\Thunderstore Mod Manager\DataFolder\Valheim\profiles\Default\BepInEx\plugins\Torann_VL-Valheim_Legends\ValheimLegends.dll
+[Info   : Unity Log] 10/26/2022 23:24:08: Valheim Legends attempting to find VLAssets in the directory with C:\Users\anton\AppData\Roaming\Thunderstore Mod Manager\DataFolder\Valheim\profiles\Default\BepInEx\plugins\Torann_VL-Valheim_Legends\ValheimLegends.dll
 
 [Info   :   BepInEx] Loading [Emote Wheel Mod 1.3.1]
 [Info   :Emote Wheel Mod] EmoteWheel Loaded!
@@ -458,7 +458,7 @@ UnityEngine.Application:.cctor()
 [Info   :   BepInEx] Loading [YetiMonsterZ 0.0.7]
 [Info   : Unity Log] Loading Yeti
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 10/25/2022 22:09:26: Starting to load scene:start
+[Info   : Unity Log] 10/26/2022 23:24:15: Starting to load scene:start
 
 [Info   : Unity Log] ConfigurationManager Searching for vanilla Config Manager.
 [Info   : Unity Log] ConfigurationManager Vanilla Config Manager not found.
@@ -471,135 +471,135 @@ UnityEngine.Application:.cctor()
 [Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> 3 MODULES LOADED | TOOLBOX READY.  
 [Info   : Unity Log] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> READY.  
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 10/25/2022 22:09:31: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:21: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:32: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:21: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:32: Loaded localization CSV:localization language:French
+[Info   : Unity Log] 10/26/2022 23:24:21: Loaded localization CSV:localization language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:32: Loaded localization CSV:localization_extra language:French
+[Info   : Unity Log] 10/26/2022 23:24:22: Loaded localization CSV:localization_extra language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:32: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:22: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:32: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:22: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:32: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:22: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:32: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:22: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:32: Loaded localization CSV:localization language:French
+[Info   : Unity Log] 10/26/2022 23:24:22: Loaded localization CSV:localization language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:33: Loaded localization CSV:localization_extra language:French
+[Info   : Unity Log] 10/26/2022 23:24:22: Loaded localization CSV:localization_extra language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:33: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:22: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:33: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:22: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:33: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:23: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:33: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:23: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:33: Loaded localization CSV:localization language:French
+[Info   : Unity Log] 10/26/2022 23:24:23: Loaded localization CSV:localization language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:33: Loaded localization CSV:localization_extra language:French
+[Info   : Unity Log] 10/26/2022 23:24:23: Loaded localization CSV:localization_extra language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:33: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:23: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:33: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:23: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:34: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:23: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:34: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:23: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:34: Loaded localization CSV:localization language:French
+[Info   : Unity Log] 10/26/2022 23:24:23: Loaded localization CSV:localization language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:34: Loaded localization CSV:localization_extra language:French
+[Info   : Unity Log] 10/26/2022 23:24:23: Loaded localization CSV:localization_extra language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:34: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:24: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:34: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:24: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:34: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:24: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:34: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:24: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:34: Loaded localization CSV:localization language:French
+[Info   : Unity Log] 10/26/2022 23:24:24: Loaded localization CSV:localization language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:34: Loaded localization CSV:localization_extra language:French
+[Info   : Unity Log] 10/26/2022 23:24:24: Loaded localization CSV:localization_extra language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:35: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:24: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:35: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:24: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:35: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:25: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:35: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:25: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:35: Loaded localization CSV:localization language:French
+[Info   : Unity Log] 10/26/2022 23:24:25: Loaded localization CSV:localization language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:35: Loaded localization CSV:localization_extra language:French
+[Info   : Unity Log] 10/26/2022 23:24:25: Loaded localization CSV:localization_extra language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:35: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:25: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:35: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:25: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:36: Using environment steamid 892970
+[Info   : Unity Log] 10/26/2022 23:24:25: Using environment steamid 892970
 
-[Info   : Unity Log] 10/25/2022 22:09:36: Using steam APPID:892970
+[Info   : Unity Log] 10/26/2022 23:24:25: Using steam APPID:892970
 
-[Info   : Unity Log] 10/25/2022 22:09:36: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 10/26/2022 23:24:25: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 10/25/2022 22:09:36: Steam initialized, persona:RAYTEK
+[Info   : Unity Log] 10/26/2022 23:24:25: Steam initialized, persona:RAYTEK
 
-[Info   : Unity Log] 10/25/2022 22:09:36: PlayFab custom ID set to "Steam_76561198114624717"
+[Info   : Unity Log] 10/26/2022 23:24:25: PlayFab custom ID set to "Steam_76561198114624717"
 
-[Info   : Unity Log] 10/25/2022 22:09:36: Using default prefs
+[Info   : Unity Log] 10/26/2022 23:24:25: Using default prefs
 
-[Info   : Unity Log] 10/25/2022 22:09:36: Valheim version:0.211.9@0.9.9.9
+[Info   : Unity Log] 10/26/2022 23:24:25: Valheim version:0.211.9@0.9.9.9
 
 [Info   :Jotunn.Managers.CommandManager] Adding 23 commands to the Console
-[Info   : Unity Log] 10/25/2022 22:09:36: Render threading mode:MultiThreaded
+[Info   : Unity Log] 10/26/2022 23:24:25: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 10/25/2022 22:09:36: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:25: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:36: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:26: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:36: Loaded localization CSV:localization language:French
+[Info   : Unity Log] 10/26/2022 23:24:26: Loaded localization CSV:localization language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:36: Loaded localization CSV:localization_extra language:French
+[Info   : Unity Log] 10/26/2022 23:24:26: Loaded localization CSV:localization_extra language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:36: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:26: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:36: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:26: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:37: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:26: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:37: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:26: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:37: Loaded localization CSV:localization language:French
+[Info   : Unity Log] 10/26/2022 23:24:27: Loaded localization CSV:localization language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:37: Loaded localization CSV:localization_extra language:French
+[Info   : Unity Log] 10/26/2022 23:24:27: Loaded localization CSV:localization_extra language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:37: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:27: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:37: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:27: Loaded localization CSV:localization_extra language:English
 
-[Warning: Unity Log] 10/25/2022 22:09:37: Missing audio clip in music respawn
+[Warning: Unity Log] 10/26/2022 23:24:27: Missing audio clip in music respawn
 
-[Info   : Unity Log] 10/25/2022 22:09:37: Checking for installed DLCs
+[Info   : Unity Log] 10/26/2022 23:24:27: Checking for installed DLCs
 
-[Info   : Unity Log] 10/25/2022 22:09:37: DLC:beta installed:False
+[Info   : Unity Log] 10/26/2022 23:24:27: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.InputManager] Registering 5 custom inputs
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 10/25/2022 22:09:38: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:28: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:38: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:28: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
-[Info   : Unity Log] 10/25/2022 22:09:38: Loaded localization CSV:localization language:French
+[Info   : Unity Log] 10/26/2022 23:24:29: Loaded localization CSV:localization language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:38: Loaded localization CSV:localization_extra language:French
+[Info   : Unity Log] 10/26/2022 23:24:29: Loaded localization CSV:localization_extra language:French
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'French'
 [Warning:RRRMonsters] True
@@ -1533,17 +1533,17 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] [Better Trader] Loaded conversion [<color=orange>Elden Deer Artifact</color>]/[ColororangeeldenDeerArtifactcolor] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [<color=magenta>Elden Valkyrie Artifact</color>]/[ColormagentaeldenValkyrieArtifactcolor] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [<color=grey>Elden Lox Artifact</color>]/[ColorgreyeldenLoxArtifactcolor] and added it to ObjectDBCache!!
-[Info   : Unity Log] 10/25/2022 22:09:45: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:35: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:45: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:35: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:46: Loaded localization CSV:localization language:French
+[Info   : Unity Log] 10/26/2022 23:24:35: Loaded localization CSV:localization language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:46: Loaded localization CSV:localization_extra language:French
+[Info   : Unity Log] 10/26/2022 23:24:35: Loaded localization CSV:localization_extra language:French
 
-[Info   : Unity Log] 10/25/2022 22:09:46: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:24:35: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:09:46: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:24:36: Loaded localization CSV:localization_extra language:English
 
 [Info   : Unity Log] id 0
 [Info   : Unity Log] name 
@@ -1565,31 +1565,31 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] [BetterContinents] C:/Users/anton/AppData/LocalLow/IronGate/Valheim\BetterContinents\presets\Vanillaish.png already exists, skipping extraction
 [Info   : Unity Log] Preset names = Disabled, Continents, Pangaea, Swirls, Vanillaish, From Config
 [Info   : Unity Log] [BetterContinents] Setup UI
-[Info   : Unity Log] 10/25/2022 22:09:47: Ticket is System.Byte[] of length 369
+[Info   : Unity Log] 10/26/2022 23:24:37: Ticket is System.Byte[] of length 369
 
-[Info   : Unity Log] 10/25/2022 22:09:47: Session auth respons callback
+[Info   : Unity Log] 10/26/2022 23:24:37: Session auth respons callback
 
-[Info   : Unity Log] 10/25/2022 22:09:47: UI Group status changed Menu = True
+[Info   : Unity Log] 10/26/2022 23:24:37: UI Group status changed Menu = True
 
-[Info   : Unity Log] 10/25/2022 22:09:48: PlayFab logged in as "Steam_76561198114624717"
+[Info   : Unity Log] 10/26/2022 23:24:38: PlayFab logged in as "Steam_76561198114624717"
 
-[Info   : Unity Log] 10/25/2022 22:09:48: PlayFab local entity ID is EF223F55D6B1D70A
+[Info   : Unity Log] 10/26/2022 23:24:38: PlayFab local entity ID is EF223F55D6B1D70A
 
-[Info   : Unity Log] 10/25/2022 22:09:49: UI Group status changed Menu = True
+[Info   : Unity Log] 10/26/2022 23:24:39: UI Group status changed Menu = True
 
-[Info   : Unity Log] 10/25/2022 22:09:52: FOund selected Start game
+[Info   : Unity Log] 10/26/2022 23:24:44: FOund selected Start game
 
-[Info   : Unity Log] 10/25/2022 22:09:52: show character selection
+[Info   : Unity Log] 10/26/2022 23:24:44: show character selection
 
-[Info   : Unity Log] 10/25/2022 22:09:53: OnCharacterStart
+[Info   : Unity Log] 10/26/2022 23:24:46: OnCharacterStart
 
 [Message:Spawn That!] Loading local spawner configurations.
-[Message:Spawn That!] Loading local spawner configs took: 00:00:00.0313280
+[Message:Spawn That!] Loading local spawner configs took: 00:00:00.0389181
 [Message:Spawn That!] Loading world spawner simple configurations
 [Message:Spawn That!] Loading world spawner configurations.
-[Message:Spawn That!] Loading world spawner configs took: 00:00:00.0264886
+[Message:Spawn That!] Loading world spawner configs took: 00:00:00.0368368
 [Message:Spawn That!] Loading SpawnArea spawner configurations.
-[Message:Spawn That!] Loading SpawnArea spawner configs took: 00:00:00.0057879
+[Message:Spawn That!] Loading SpawnArea spawner configs took: 00:00:00.0070311
 [Message:Drop That!] Loading general configuration from C:\Users\anton\AppData\Roaming\Thunderstore Mod Manager\DataFolder\Valheim\profiles\Default\BepInEx\config\drop_that.cfg.
 [Message:Drop That!] Loading character drop lists
 [Message:Drop That!] Loading character drop configurations
@@ -1671,27 +1671,27 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] [BetterContinents] Forest amount 0,5
 [Info   : Unity Log] [BetterContinents] Forestmap disabled
 [Info   : Unity Log] [BetterContinents] Spawnmap disabled
-[Info   : Unity Log] 10/25/2022 22:10:18: Loading main scene
+[Info   : Unity Log] 10/26/2022 23:25:14: Loading main scene
 
-[Info   : Unity Log] 10/25/2022 22:10:19: Steam initialized, persona:RAYTEK
+[Info   : Unity Log] 10/26/2022 23:25:15: Steam initialized, persona:RAYTEK
 
-[Info   : Unity Log] 10/25/2022 22:10:19: PlayFab custom ID set to "Steam_76561198114624717"
+[Info   : Unity Log] 10/26/2022 23:25:15: PlayFab custom ID set to "Steam_76561198114624717"
 
-[Info   : Unity Log] 10/25/2022 22:10:19: Using default prefs
+[Info   : Unity Log] 10/26/2022 23:25:15: Using default prefs
 
 [Info   :Jotunn.Managers.CommandManager] Adding 23 commands to the Console
-[Info   : Unity Log] 10/25/2022 22:10:19: Loading player profile tesmod
+[Info   : Unity Log] 10/26/2022 23:25:15: Loading player profile ultime
 
-[Info   : Unity Log] 10/25/2022 22:10:19: isModded: True
+[Info   : Unity Log] 10/26/2022 23:25:15: isModded: True
 
-[Info   : Unity Log] 10/25/2022 22:10:19: Zonesystem Awake 513
+[Info   : Unity Log] 10/26/2022 23:25:15: Zonesystem Awake 839
 
-[Info   : Unity Log] 10/25/2022 22:10:19: DungeonDB Awake 513
+[Info   : Unity Log] 10/26/2022 23:25:15: DungeonDB Awake 839
 
-[Info   : Unity Log] 10/25/2022 22:10:19: Steam initialized, persona:RAYTEK
+[Info   : Unity Log] 10/26/2022 23:25:15: Steam initialized, persona:RAYTEK
 
 [Info   : Unity Log] [BetterContinents] 1000 samples per ms, range [-0,8200029, 0,81331]
-[Info   : Unity Log] [BetterContinents] 1111 samples per ms, range [-0,8398448, 0,8056721]
+[Info   : Unity Log] [BetterContinents] 1250 samples per ms, range [-0,8398448, 0,8056721]
 [Info   : Unity Log] [BetterContinents] 5000 samples per ms, range [-0,9363804, 0,902555]
 [Info   : Unity Log] [BetterContinents] 10000 samples per ms, range [-0,9987597, 0,9987596]
 [Info   : Unity Log] Registered 'advize.CartographySkill ConfigSync' RPC - waiting for incoming connections
@@ -1735,17 +1735,17 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   :Jotunn.Managers.CreatureManager] Adding 6 custom creatures
 [Info   : Unity Log] [CustomSlotCreator] Created quiver slot for LeatherQuiver.
 [Warning: Unity Log] [BetterArchery]: Could not find directory (SFX).
-[Info   : Unity Log] 10/25/2022 22:10:24: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:25:20: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:10:24: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:25:20: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 10/25/2022 22:10:24: Loaded localization CSV:localization language:French
+[Info   : Unity Log] 10/26/2022 23:25:20: Loaded localization CSV:localization language:French
 
-[Info   : Unity Log] 10/25/2022 22:10:24: Loaded localization CSV:localization_extra language:French
+[Info   : Unity Log] 10/26/2022 23:25:20: Loaded localization CSV:localization_extra language:French
 
-[Info   : Unity Log] 10/25/2022 22:10:24: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 10/26/2022 23:25:20: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 10/25/2022 22:10:24: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 10/26/2022 23:25:20: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.ItemManager] Adding 492 custom items to the ObjectDB
 [Info   :Jotunn.Managers.ItemManager] Adding 306 custom recipes to the ObjectDB
@@ -1856,23 +1856,23 @@ RRRCore.RRRLateLoadPrefabs.Load () (at <d29df19a500e4a1a8d8a604f4910d4f1>:0)
 RRRCore.Plugin.LateLoadServer () (at <d29df19a500e4a1a8d8a604f4910d4f1>:0)
 (wrapper dynamic-method) ObjectDB.DMD<ObjectDB::Awake>(ObjectDB)
 
-[Info   : Unity Log] 10/25/2022 22:10:34: Audioman already exist, destroying self
+[Info   : Unity Log] 10/26/2022 23:25:30: Audioman already exist, destroying self
 
-[Info   : Unity Log] 10/25/2022 22:10:34: Checking for installed DLCs
+[Info   : Unity Log] 10/26/2022 23:25:30: Checking for installed DLCs
 
-[Info   : Unity Log] 10/25/2022 22:10:34: DLC:beta installed:False
+[Info   : Unity Log] 10/26/2022 23:25:30: DLC:beta installed:False
 
 [Info   : Unity Log] [Better Trader] Initializing UI!
 [Info   : Unity Log] [Better Trader] Trader's coins were loaded from Player Prefs with a value of 2000
 [Info   :SleepPlease] Is Server
 [Info   :Jotunn.Managers.NetworkManager] Registering 5 custom RPCs
 [Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
-[Info   : Unity Log] 10/25/2022 22:10:38: Zonesystem Start 513
+[Info   : Unity Log] 10/26/2022 23:25:35: Zonesystem Start 839
 
 [Message:Custom Raids] Writing random events (raids) for specific locations, eg. caves, to file C:\Users\anton\AppData\Roaming\Thunderstore Mod Manager\DataFolder\Valheim\profiles\Default\BepInEx\Debug\default_location_random_events.txt.
-[Info   : Unity Log] 10/25/2022 22:10:39: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+[Info   : Unity Log] 10/26/2022 23:25:35: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
 
-[Info   : Unity Log] 10/25/2022 22:10:39: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+[Info   : Unity Log] 10/26/2022 23:25:35: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
 
 [Warning:Jotunn.Managers.PrefabManager] [Valharvest] Prefab 'Pickable_Pepper' already exists
 [Warning:Jotunn.Managers.PrefabManager] [Valharvest] Prefab 'Pickable_Bell_Pepper' already exists
@@ -1896,7 +1896,7 @@ RRRCore.Plugin.LateLoadServer () (at <d29df19a500e4a1a8d8a604f4910d4f1>:0)
 [Info   :EpicValheimsAdditions.Core] Updated Alchemystation level
 [Info   :Jotunn.Managers.ZoneManager] Injecting 8 custom locations
 [Info   :Jotunn.Managers.ZoneManager] Injecting 21 custom vegetation
-[Info   : Unity Log] 10/25/2022 22:10:41: DungeonDB Start 513
+[Info   : Unity Log] 10/26/2022 23:25:38: DungeonDB Start 839
 
 [Warning:PlanBuild.Plans.PlanDB] Error while creating plan of RaspberryBush: System.NullReferenceException: Object reference not set to an instance of an object
   at PlanBuild.Plans.PlanDB.ScanPieceTables () [0x001f6] in <7e9cb6e4ba5a4f6cbc248ba09441ef5b>:0 
@@ -2696,32 +2696,34 @@ Piece.m_name: Large Window
 
 
 [Warning:Custom Raids] Unable to find spawn RRRM_AshNecksSmall
-[Info   : Unity Log] 10/25/2022 22:10:43: Load world: DaTest (DaTest)
+[Info   : Unity Log] 10/26/2022 23:25:40: Load world: DaTest (DaTest)
 
-[Info   : Unity Log] 10/25/2022 22:10:43: Loading 110554 zdos , my id -18741494 data version:28
+[Info   : Unity Log] 10/26/2022 23:25:40: Loading 110359 zdos , my id -69487517 data version:28
 
-[Info   : Unity Log] 10/25/2022 22:10:43: Loaded 10598 dead zdos
+[Info   : Unity Log] 10/26/2022 23:25:41: Loaded 11306 dead zdos
 
-[Info   : Unity Log] 10/25/2022 22:10:43: Removed 0 OLD generated ZDOS
+[Info   : Unity Log] 10/26/2022 23:25:41: Removed 0 OLD generated ZDOS
 
-[Info   : Unity Log] 10/25/2022 22:10:44: Loaded 7390 locations
+[Info   : Unity Log] 10/26/2022 23:25:41: Loaded 6916 locations
 
-[Info   : Unity Log] 10/25/2022 22:10:44: Starting respawn
+[Info   : Unity Log] 10/26/2022 23:25:41: Starting respawn
 
-[Info   : Unity Log] 10/25/2022 22:10:44: Session auth respons callback
+[Info   : Unity Log] 10/26/2022 23:25:41: Session auth respons callback
 
 [Info   : Unity Log] [BetterContinents] Generating minimap textures multi-threaded ...
-[Info   : Unity Log] 10/25/2022 22:10:45: Unpacking compressed mapdata 8398
+[Info   : Unity Log] 10/26/2022 23:25:42: Unpacking compressed mapdata 9092
 
-[Info   : Unity Log] 10/25/2022 22:10:45: tip:$loadscreen_tip14
+[Info   : Unity Log] 10/26/2022 23:25:42: tip:$loadscreen_tip01
 
-[Info   : Unity Log] 10/25/2022 22:10:49: Loading dungeon
+[Info   : Unity Log] 10/26/2022 23:25:46: Force generaeting hmap (192.0, 0.0, 64.0)
 
-[Info   : Unity Log] 10/25/2022 22:10:49: Dungeon loaded 9
+[Info   : Unity Log] 10/26/2022 23:25:46: Force generaeting hmap (192.0, 0.0, 320.0)
 
-[Info   : Unity Log] 10/25/2022 22:10:49: Dungeon load time 62,4093 ms
+[Info   : Unity Log] 10/26/2022 23:25:46: Setting saddle:False
 
-[Info   : Unity Log] 10/25/2022 22:10:53: Spawned after 8,019994
+[Info   : Unity Log] 10/26/2022 23:25:47: Setting saddle:False
+
+[Info   : Unity Log] 10/26/2022 23:25:50: Spawned after 8,019994
 
 [Info   : Unity Log] id 0
 [Info   : Unity Log] name ...
@@ -2729,80 +2731,356 @@ Piece.m_name: Large Window
 [Info   :EquipWheel] Spawned EquipGui!
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
 [Info   :BetterArcheryEAQSFix] Searching player inventory for lost items.
-[Info   : Unity Log] 10/25/2022 22:10:53: Queue unlock msg:$msg_newpiece:Altar (admin only)
-
-[Info   : Unity Log] 10/25/2022 22:10:53: Valheim Legend: --None--
+[Info   : Unity Log] 10/26/2022 23:25:51: Valheim Legend: --None--
 
 [Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
-[Info   : Unity Log] 10/25/2022 22:10:53: Minimap: Adding unique location (187.1, 77.2, 197.6)
+[Info   : Unity Log] 10/26/2022 23:25:51: Minimap: Adding unique location (187.1, 77.2, 197.6)
+
+[Info   : Unity Log] 10/26/2022 23:25:53: Resumed music meadows at 0
 
 [Info   : Unity Log] [BetterContinents] Finished generating minimap textures multi-threaded ...
-[Info   : Unity Log] 10/25/2022 22:11:09: Setting selected recipe 0
+[Info   : Unity Log] 10/26/2022 23:25:56: Spawned TreeSpider x 1
 
-[Info   : Unity Log] 10/25/2022 22:11:09: UI Group status changed root = True
+[Info   : Unity Log] 10/26/2022 23:26:05: Spawned Rainbow_Butterfly x 1
 
-[Info   : Unity Log] 10/25/2022 22:11:09: UI Group status changed Player = True
+[Info   : Unity Log] 10/26/2022 23:26:13: Setting selected recipe 0
 
-[Info   : Unity Log] 10/25/2022 22:11:11: Setting selected recipe 0
+[Info   : Unity Log] 10/26/2022 23:26:13: UI Group status changed root = True
 
-[Info   : Unity Log] 10/25/2022 22:11:11: UI Group status changed root = True
+[Info   : Unity Log] 10/26/2022 23:26:13: UI Group status changed Player = True
 
-[Info   : Unity Log] 10/25/2022 22:11:11: UI Group status changed Player = True
+[Warning: Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> MODULE IN ERROR STATUS. | CHECKING MODULE: CC CONTROLLER  
+[Warning: Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> COULD NOT RESOLVE ERROR. | UNLOADING THE MODULE: CC CONTROLLER  
+[Info   : Unity Log] 10/26/2022 23:26:19: Starting respawn
 
-[Info   : Unity Log] 10/25/2022 22:11:14: Setting selected recipe 0
+[Info   : Unity Log] 10/26/2022 23:26:19: FOund selected Button_no
 
-[Info   : Unity Log] 10/25/2022 22:11:14: UI Group status changed root = True
+[Warning: Unity Log] 10/26/2022 23:26:19: Local player destroyed
 
-[Info   : Unity Log] 10/25/2022 22:11:14: UI Group status changed Player = True
+[Info   : Unity Log] 10/26/2022 23:26:19: tip:$loadscreen_tip05
 
-[Info   : Unity Log] 10/25/2022 22:11:34: Resumed music meadows at 0
+[Info   : Unity Log] id 0
+[Info   : Unity Log] name ...
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   :BetterArcheryEAQSFix] Searching player inventory for lost items.
+[Info   : Unity Log] 10/26/2022 23:26:19: Valheim Legend: --None--
 
-[Info   : Unity Log] 10/25/2022 22:11:43: UI Group status changed MenuRoot = True
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   : Unity Log] 10/26/2022 23:26:22: Setting selected recipe 0
 
-[Info   : Unity Log] 10/25/2022 22:11:53: UI Group status changed MenuRoot = False
+[Info   : Unity Log] 10/26/2022 23:26:22: UI Group status changed root = True
 
-[Info   : Unity Log] 10/25/2022 22:11:53: Game - OnApplicationQuit
+[Info   : Unity Log] 10/26/2022 23:26:22: UI Group status changed Player = True
 
-[Info   : Unity Log] 10/25/2022 22:11:54: Shuting down
+[Warning:BetterArcheryEAQSFix] GetEmptySlots: subtracted 16 BetterArchery slots (now 32)
+[Warning:BetterArcheryEAQSFix] GetEmptySlots: subtracted 16 BetterArchery slots (now 16)
+[Info   : Unity Log] RequipMe EasyFitInInventory Postfix
+[Warning:BetterArcheryEAQSFix] GetEmptySlots: subtracted 16 BetterArchery slots (now 32)
+[Warning:BetterArcheryEAQSFix] GetEmptySlots: subtracted 16 BetterArchery slots (now 16)
+[Info   : Unity Log] 10/26/2022 23:26:26: Setting selected recipe 0
 
-[Info   : Unity Log] 10/25/2022 22:11:54: Uncompressed size 8388657
+[Info   : Unity Log] 10/26/2022 23:26:27: UI Group status changed root = True
 
-[Info   : Unity Log] 10/25/2022 22:11:54: Compressed size 8398
+[Info   : Unity Log] 10/26/2022 23:26:27: UI Group status changed Player = True
 
-[Info   : Unity Log] 10/25/2022 22:11:54: Cloud Save: 58822 bytes. /characters/tesmod.fch.new
+[Info   : Unity Log] 10/26/2022 23:26:27: UI Group status changed Container = False
 
-[Info   : Unity Log] 10/25/2022 22:11:54: Steam writing file chunks 1 / 1, (58822 bytes)
+[Info   : Unity Log] 10/26/2022 23:26:29: Stopped music meadows at 1614412
 
-[Info   : Unity Log] 10/25/2022 22:11:54: Steam Cloud Move: 58803 bytes. /characters/tesmod.fch -> /characters/tesmod.fch.old
+[Info   : Unity Log] 10/26/2022 23:26:29: Resumed music meadows at 1614412
 
-[Info   : Unity Log] 10/25/2022 22:11:54: Steam writing file chunks 1 / 1, (58803 bytes)
+[Info   : Unity Log] 10/26/2022 23:26:37: Setting selected recipe 0
 
-[Info   : Unity Log] 10/25/2022 22:11:54: Steam Cloud Move: 58822 bytes. /characters/tesmod.fch.new -> /characters/tesmod.fch
+[Info   : Unity Log] 10/26/2022 23:26:37: UI Group status changed root = True
 
-[Info   : Unity Log] 10/25/2022 22:11:54: Steam writing file chunks 1 / 1, (58822 bytes)
+[Info   : Unity Log] 10/26/2022 23:26:37: UI Group status changed Player = True
 
-[Info   : Unity Log] 10/25/2022 22:11:54: Considering autobackup. World time: 58, short time: 7200, long time: 43200, backup count: 4
+[Info   : Unity Log] 10/26/2022 23:26:57: Setting selected recipe 0
 
-[Info   : Unity Log] 10/25/2022 22:11:54: Skipping backup. World session not long enough.
+[Info   : Unity Log] 10/26/2022 23:27:02: UI Group status changed dialog = True
 
-[Message:Server Characters] Backed up a player profile in 'tesmod-2022-10-25T22-11-54.fch'
-[Info   : Unity Log] 10/25/2022 22:11:54: ZNet Shutdown
+[Info   : Unity Log] 10/26/2022 23:27:04: Starting respawn
 
-[Info   : Unity Log] 10/25/2022 22:11:54: clone 168
+[Info   : Unity Log] 10/26/2022 23:27:04: FOund selected Button_no
 
-[Info   : Unity Log] 10/25/2022 22:11:55: Sending disconnect msg
+[Warning: Unity Log] 10/26/2022 23:27:04: Local player destroyed
+
+[Info   : Unity Log] 10/26/2022 23:27:04: tip:$loadscreen_tip11
+
+[Info   : Unity Log] id 0
+[Info   : Unity Log] name ...
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   :BetterArcheryEAQSFix] Searching player inventory for lost items.
+[Info   : Unity Log] 10/26/2022 23:27:05: Valheim Legend: --None--
+
+[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
+[Info   : Unity Log] 10/26/2022 23:27:07: Setting selected recipe 0
+
+[Info   : Unity Log] 10/26/2022 23:27:07: UI Group status changed root = True
+
+[Info   : Unity Log] 10/26/2022 23:27:07: UI Group status changed Player = True
+
+[Warning:BetterArcheryEAQSFix] GetEmptySlots: subtracted 16 BetterArchery slots (now 32)
+[Warning:BetterArcheryEAQSFix] GetEmptySlots: subtracted 16 BetterArchery slots (now 16)
+[Info   : Unity Log] RequipMe EasyFitInInventory Postfix
+[Warning:BetterArcheryEAQSFix] GetEmptySlots: subtracted 16 BetterArchery slots (now 32)
+[Warning:BetterArcheryEAQSFix] GetEmptySlots: subtracted 16 BetterArchery slots (now 16)
+[Info   : Unity Log] 10/26/2022 23:27:11: Setting selected recipe 0
+
+[Info   : Unity Log] 10/26/2022 23:27:11: UI Group status changed root = True
+
+[Info   : Unity Log] 10/26/2022 23:27:11: UI Group status changed Player = True
+
+[Warning:BetterArcheryEAQSFix] Blocking Inventory.Additem $item_legs_wolf x 1 into Better Archery slot 0,6.
+[Warning:BetterArcheryEAQSFix] Blocking Inventory.Additem $item_chest_wolf x 1 into Better Archery slot 1,6.
+[Info   : Unity Log] 10/26/2022 23:27:14: Stopped music meadows at 3607026
+
+[Info   : Unity Log] 10/26/2022 23:27:15: Resumed music meadows at 3607026
+
+[Info   : Unity Log] RequipMe Player triggered Equip
+[Info   : Unity Log] RequipMe Equipping $item_helmet_fenris
+[Info   : Unity Log] RequipMe Equipping $item_chest_wolf
+[Info   : Unity Log] RequipMe Equipping $item_legs_wolf
+[Info   : Unity Log] RequipMe Equipping $BackpackSimple
+[Info   : Unity Log] RequipMe Equipping $item_axe_flint
+[Info   : Unity Log] RequipMe Equipping $item_shield_woodtower
+[Info   : Unity Log] 10/26/2022 23:27:24: Setting selected recipe 0
+
+[Info   : Unity Log] 10/26/2022 23:27:24: UI Group status changed root = True
+
+[Info   : Unity Log] 10/26/2022 23:27:24: UI Group status changed Player = True
+
+[Info   : Unity Log] 10/26/2022 23:27:36: Setting selected recipe 0
+
+[Info   : Unity Log] 10/26/2022 23:27:37: UI Group status changed root = True
+
+[Info   : Unity Log] 10/26/2022 23:27:37: UI Group status changed Player = True
+
+[Info   : Unity Log] 10/26/2022 23:27:44: Setting selected recipe 0
+
+[Info   : Unity Log] 10/26/2022 23:27:59: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] ConfigurationManager all plugins: 108
+[Info   : Unity Log] ConfigurationManager serverboatdamage has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager EpicLootArmourStandFix has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 18 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Spawn That! has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Custom Raids has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Drop That! has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 3 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 2 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Unfrighten Tamed Animals has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager RRRCore has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Jotunn has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 1 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager UnrestrictedPortals has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Quick Deposit has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager MultiUserChest has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager OdinArchitect has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Crawler has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Terraheim has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager TerraheimItems has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 1 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Digitalroot ForsakenJVL has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Mineshafts has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Golem has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager More Gates has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Epic Valheims Additions - by Huntard has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager MagicOverhaul has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 1 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager PlacementUnlocked has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 442 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Monsterzz has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager NoStaminaSneak has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager BetterArcheryEAQSFix has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 1 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 8 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Valheim Plus has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Skyheim has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager plugin: Locator enabled False
+[Info   : Unity Log] ConfigurationManager 11 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 27 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 18 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 16 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager WendigoMonsterZZ has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager WereBearZZ has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager WhereWolves has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Wizard has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager PreWorkout has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager YetiMonsterZ has no showable settings, skipping.
+[Info   : Unity Log] 10/26/2022 23:29:00: Setting selected recipe 0
+
+[Info   : Unity Log] 10/26/2022 23:29:00: UI Group status changed root = True
+
+[Info   : Unity Log] 10/26/2022 23:29:00: UI Group status changed Player = True
+
+[Info   : Unity Log] ConfigurationManager all plugins: 108
+[Info   : Unity Log] ConfigurationManager serverboatdamage has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager EpicLootArmourStandFix has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 18 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Spawn That! has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Custom Raids has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Drop That! has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 3 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 2 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Unfrighten Tamed Animals has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager RRRCore has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Jotunn has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 1 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager UnrestrictedPortals has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Quick Deposit has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager MultiUserChest has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager OdinArchitect has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Crawler has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Terraheim has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager TerraheimItems has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 1 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Digitalroot ForsakenJVL has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Mineshafts has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Golem has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager More Gates has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Epic Valheims Additions - by Huntard has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager MagicOverhaul has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 1 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager PlacementUnlocked has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 442 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Monsterzz has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager NoStaminaSneak has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager BetterArcheryEAQSFix has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 1 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 8 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Valheim Plus has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Skyheim has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager plugin: Locator enabled False
+[Info   : Unity Log] ConfigurationManager 11 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 27 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 18 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 16 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager WendigoMonsterZZ has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager WereBearZZ has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager WhereWolves has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Wizard has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager PreWorkout has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager YetiMonsterZ has no showable settings, skipping.
+[Info   : Unity Log] 10/26/2022 23:29:06: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] ConfigurationManager all plugins: 108
+[Info   : Unity Log] ConfigurationManager serverboatdamage has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager EpicLootArmourStandFix has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 18 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Spawn That! has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Custom Raids has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Drop That! has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 3 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 2 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Unfrighten Tamed Animals has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager RRRCore has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Jotunn has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 1 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager UnrestrictedPortals has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Quick Deposit has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager MultiUserChest has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager OdinArchitect has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Crawler has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Terraheim has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager TerraheimItems has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 1 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Digitalroot ForsakenJVL has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Mineshafts has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Golem has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager More Gates has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Epic Valheims Additions - by Huntard has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager MagicOverhaul has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 1 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager PlacementUnlocked has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 442 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Monsterzz has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager NoStaminaSneak has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager BetterArcheryEAQSFix has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 1 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 8 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager Valheim Plus has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Skyheim has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager plugin: Locator enabled False
+[Info   : Unity Log] ConfigurationManager 11 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 27 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 18 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager 16 settings are not browseable, removing.
+[Info   : Unity Log] ConfigurationManager WendigoMonsterZZ has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager WereBearZZ has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager WhereWolves has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager Wizard has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager PreWorkout has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager YetiMonsterZ has no showable settings, skipping.
+[Info   : Unity Log] RequipMe Player triggered Equip
+[Info   : Unity Log] RequipMe Equipping $item_helmet_fenris
+[Info   : Unity Log] RequipMe Equipping $item_chest_wolf
+[Info   : Unity Log] RequipMe Equipping $item_legs_wolf
+[Info   : Unity Log] RequipMe Equipping $BackpackSimple
+[Info   : Unity Log] RequipMe Equipping $item_axe_flint
+[Info   : Unity Log] RequipMe Equipping $item_shield_woodtower
+[Info   : Unity Log] RequipMe Player triggered Equip
+[Info   : Unity Log] RequipMe Equipping $item_helmet_fenris
+[Info   : Unity Log] RequipMe Equipping $item_chest_wolf
+[Info   : Unity Log] RequipMe Equipping $item_legs_wolf
+[Info   : Unity Log] RequipMe Equipping $BackpackSimple
+[Info   : Unity Log] RequipMe Equipping $item_axe_flint
+[Info   : Unity Log] RequipMe Equipping $item_shield_woodtower
+[Info   : Unity Log] RequipMe Player triggered Equip
+[Info   : Unity Log] RequipMe Equipping $item_helmet_fenris
+[Info   : Unity Log] RequipMe Equipping $item_chest_wolf
+[Info   : Unity Log] RequipMe Equipping $item_legs_wolf
+[Info   : Unity Log] RequipMe Equipping $BackpackSimple
+[Info   : Unity Log] RequipMe Equipping $item_axe_flint
+[Info   : Unity Log] RequipMe Equipping $item_shield_woodtower
+[Info   : Unity Log] 10/26/2022 23:29:37: Setting selected recipe 0
+
+[Info   : Unity Log] 10/26/2022 23:29:37: UI Group status changed root = True
+
+[Info   : Unity Log] 10/26/2022 23:29:37: UI Group status changed Player = True
+
+[Info   : Unity Log] 10/26/2022 23:29:41: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 10/26/2022 23:29:44: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 10/26/2022 23:29:45: Game - OnApplicationQuit
+
+[Info   : Unity Log] 10/26/2022 23:29:45: Shuting down
+
+[Info   : Unity Log] 10/26/2022 23:29:45: Uncompressed size 8388891
+
+[Info   : Unity Log] 10/26/2022 23:29:45: Compressed size 9118
+
+[Info   : Unity Log] 10/26/2022 23:29:45: Cloud Save: 26259 bytes. /characters/ultime.fch.new
+
+[Info   : Unity Log] 10/26/2022 23:29:45: Steam writing file chunks 1 / 1, (26259 bytes)
+
+[Info   : Unity Log] 10/26/2022 23:29:45: Steam Cloud Move: 26109 bytes. /characters/ultime.fch -> /characters/ultime.fch.old
+
+[Info   : Unity Log] 10/26/2022 23:29:45: Steam writing file chunks 1 / 1, (26109 bytes)
+
+[Info   : Unity Log] 10/26/2022 23:29:45: Steam Cloud Move: 26259 bytes. /characters/ultime.fch.new -> /characters/ultime.fch
+
+[Info   : Unity Log] 10/26/2022 23:29:45: Steam writing file chunks 1 / 1, (26259 bytes)
+
+[Info   : Unity Log] 10/26/2022 23:29:45: Considering autobackup. World time: 169,86, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 10/26/2022 23:29:45: Skipping backup. World session not long enough.
+
+[Message:Server Characters] Backed up a player profile in 'ultime-2022-10-26T23-29-45.fch'
+[Info   : Unity Log] 10/26/2022 23:29:45: ZNet Shutdown
+
+[Info   : Unity Log] 10/26/2022 23:29:46: clone 348
+
+[Info   : Unity Log] 10/26/2022 23:29:47: Sending disconnect msg
 
 [Info   : Unity Log] [Better Trader] Trader's coins were saved with a value of 2000
-[Info   : Unity Log] 10/25/2022 22:11:57: FOund selected Button_yes
+[Info   : Unity Log] 10/26/2022 23:29:49: FOund selected Button_yes
 
-[Info   : Unity Log] 10/25/2022 22:11:57: ZNet OnDestroy
+[Info   : Unity Log] 10/26/2022 23:29:49: ZNet OnDestroy
 
-[Info   : Unity Log] 10/25/2022 22:11:57: Net scene destroyed
+[Info   : Unity Log] 10/26/2022 23:29:49: Net scene destroyed
 
 [Info   :Valharvest.Main] Valharvest: OnDestroy
 [Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
 [Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
-[Info   : Unity Log] 10/25/2022 22:12:06: Steam manager on destroy
-
-[Warning: Unity Log] 10/25/2022 22:12:06: Local player destroyed
-
