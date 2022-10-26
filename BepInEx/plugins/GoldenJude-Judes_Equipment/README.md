@@ -4,8 +4,8 @@
 Blacksmith's tools is not a hard dependency, the mod will work without it. You'll just run into armors clipping with player body.  
 The mod makes no use of blacksmith's tool's bone reoder, you may disable it if you wish.  
 Use the mod on a server to sync configs.  
-Using [Hugo's more and modified cloth colliders](https://valheim.thunderstore.io/package/HugotheDwarf/More_and_Modified_Player_Cloth_Colliders/) is recommended  
-In case of questions you may find me on the [Modding discord server](https://discord.gg/MXqWrn532w)
+Using [Hugo's more and modified cloth colliders](https://valheim.thunderstore.io/package/HugotheDwarf/More_and_Modified_Player_Cloth_Colliders/) improves some armor's cloth physics  
+In case of questions you may find me on the [Odin Plus discord server](https://discord.gg/Pb6bVMnFb2)
 
 ## Features
 
@@ -83,6 +83,8 @@ Each armor piece's metallic color can be adjusted in ``JudesEquipment_Colors.yml
 ![Scorched armor](https://cdn.discordapp.com/attachments/830502805869559848/892789090154606682/20210929153749_1.jpg)  
 
 ## Changelog  
+- **2.2.1**  
+Updated ServerSync  
 - **2.2.0**  
 Added Noble's armor  
 - **2.1.1**  

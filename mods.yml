@@ -1207,10 +1207,10 @@
   versionNumber:
     major: 2
     minor: 2
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/GoldenJude-Judes_Equipment/2.2.0/icon.png
+    Manager/DataFolder/Valheim/cache/GoldenJude-Judes_Equipment/2.2.1/icon.png
 - manifestVersion: 1
   name: cjayride-AutoSplitStacks
   authorName: cjayride
