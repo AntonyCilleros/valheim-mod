@@ -84,6 +84,10 @@ Each armor piece's metallic color can be adjusted in ``JudesEquipment_Colors.yml
 
 ## Changelog  
 - **2.2.1**  
+Updated ServerSync to 1.13  
+- **2.2.1**  
+Updated ServerSync to 1.12  
+- **2.2.1**  
 Updated ServerSync  
 - **2.2.0**  
 Added Noble's armor  

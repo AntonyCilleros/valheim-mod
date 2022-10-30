@@ -13,6 +13,9 @@ This is a remake of the original mod by RoloPogo (all credit for the assets goes
 ## Changelog
 <hr/>
 
+### 3.0.8
+- Update ServerSync internally
+- Update PieceManager internally
 ### 3.0.7
 - Fix loading issue due to latest PieceManager update.
   * Forgot to declare a category for the piece now. You can now change the category for each piece via the configuration manager/config file. (configuration manager will change it live)
@@ -37,7 +40,7 @@ This is a remake of the original mod by RoloPogo (all credit for the assets goes
 - Logout and back in issue resolved by using my PieceManager's code.
 - Made the carts harder to tip over. (Please note: By default, the heaver the cart gets...the harder it is to pull.)
 - Added lights and storage to the carts. Making them a little more viable for roaming around.
-- Config file renamed to `azumatt.CraftyCarts.cfg` to reflect the new config options and not conflict with any old files
+- Config file renamed to `Azumatt.CraftyCarts.cfg` to reflect the new config options and not conflict with any old files
 - Update to use the latest BepInEx, Valheim Version, and ServerSync.
 - Update README.md on github and here. Added credits inside the code to Rolopogo. Thank you once again for an amazing mod idea. Glad that I got to continue the dream.
 ### 2.1.0
@@ -65,5 +68,7 @@ New Source: https://github.com/AzumattDev/CraftyCartsRemake
 
 `STEAM:` https://steamcommunity.com/id/azumatt/﻿
 
-For Questions or Comments, find me﻿ in the Odin Plus Team Discord:
+For Questions or Comments, find me in the Odin Plus Team Discord or in mine:
+
 [![https://i.imgur.com/XXP6HCU.png](https://i.imgur.com/XXP6HCU.png)](https://discord.gg/Pb6bVMnFb2)
+<a href="https://discord.gg/pdHgy6Bsng"><img src="https://i.imgur.com/Xlcbmm9.png" href="https://discord.gg/pdHgy6Bsng" width="175" height="175"></a>

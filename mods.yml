@@ -60,10 +60,10 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 7
+    patch: 8
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/RandyKnapp-ExtendedItemDataFramework/1.0.7/icon.png
+    Manager/DataFolder/Valheim/cache/RandyKnapp-ExtendedItemDataFramework/1.0.8/icon.png
 - manifestVersion: 1
   name: RandyKnapp-EpicLoot
   authorName: RandyKnapp
@@ -83,10 +83,10 @@
   versionNumber:
     major: 0
     minor: 8
-    patch: 9
+    patch: 10
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/RandyKnapp-EpicLoot/0.8.9/icon.png
+    Manager/DataFolder/Valheim/cache/RandyKnapp-EpicLoot/0.8.10/icon.png
 - manifestVersion: 1
   name: Tyrenheim-EpicLootArmourStandFix
   authorName: Tyrenheim
@@ -425,11 +425,11 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 7
+    minor: 8
     patch: 0
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/OdinPlus-TeleportEverything/1.7.0/icon.png
+    Manager/DataFolder/Valheim/cache/OdinPlus-TeleportEverything/1.8.0/icon.png
 - manifestVersion: 1
   name: casual_plebs-BetterLadders
   authorName: casual_plebs
@@ -657,11 +657,11 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 7
-    patch: 9
+    minor: 8
+    patch: 1
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/ValheimModding-Jotunn/2.7.9/icon.png
+    Manager/DataFolder/Valheim/cache/ValheimModding-Jotunn/2.8.1/icon.png
 - manifestVersion: 1
   name: RagnarokHCRP-MoreGates
   authorName: RagnarokHCRP
@@ -749,10 +749,10 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 10
+    patch: 11
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/Smoothbrain-Groups/1.1.10/icon.png
+    Manager/DataFolder/Valheim/cache/Smoothbrain-Groups/1.1.11/icon.png
 - manifestVersion: 1
   name: Nextek-SpeedyPaths
   authorName: Nextek
@@ -995,10 +995,10 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 4
+    patch: 5
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/GoldenJude-Mineshafts/1.0.4/icon.png
+    Manager/DataFolder/Valheim/cache/GoldenJude-Mineshafts/1.0.5/icon.png
 - manifestVersion: 1
   name: Xenofell-PreWorkout
   authorName: Xenofell
@@ -1067,10 +1067,10 @@
   versionNumber:
     major: 3
     minor: 0
-    patch: 7
+    patch: 8
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/OdinPlus-CraftyCartsRemake/3.0.7/icon.png
+    Manager/DataFolder/Valheim/cache/OdinPlus-CraftyCartsRemake/3.0.8/icon.png
 - manifestVersion: 1
   name: Advize-CartographySkill
   authorName: Advize
@@ -1091,10 +1091,10 @@
   versionNumber:
     major: 2
     minor: 1
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/Advize-CartographySkill/2.1.1/icon.png
+    Manager/DataFolder/Valheim/cache/Advize-CartographySkill/2.1.2/icon.png
 - manifestVersion: 1
   name: tonsit-InteractWhileBuilding
   authorName: tonsit
@@ -1183,11 +1183,11 @@
   optionalDependencies: []
   versionNumber:
     major: 10
-    minor: 0
-    patch: 5
+    minor: 2
+    patch: 0
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/AeehyehssReeper-ChaosArmor/10.0.5/icon.png
+    Manager/DataFolder/Valheim/cache/AeehyehssReeper-ChaosArmor/10.2.0/icon.png
 - manifestVersion: 1
   name: GoldenJude-Judes_Equipment
   authorName: GoldenJude
@@ -1207,10 +1207,10 @@
   versionNumber:
     major: 2
     minor: 2
-    patch: 1
+    patch: 3
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/GoldenJude-Judes_Equipment/2.2.1/icon.png
+    Manager/DataFolder/Valheim/cache/GoldenJude-Judes_Equipment/2.2.3/icon.png
 - manifestVersion: 1
   name: cjayride-AutoSplitStacks
   authorName: cjayride
@@ -1345,10 +1345,10 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/Smoothbrain-Sailing/1.1.3/icon.png
+    Manager/DataFolder/Valheim/cache/Smoothbrain-Sailing/1.1.4/icon.png
 - manifestVersion: 1
   name: Smoothbrain-Ranching
   authorName: Smoothbrain
@@ -1368,10 +1368,10 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/Smoothbrain-Ranching/1.1.0/icon.png
+    Manager/DataFolder/Valheim/cache/Smoothbrain-Ranching/1.1.1/icon.png
 - manifestVersion: 1
   name: DasSauerkraut-Terraheim
   authorName: DasSauerkraut
@@ -1523,11 +1523,11 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 8
+    minor: 9
     patch: 0
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/MonsterLabZ-MonsterLabZ/2.8.0/icon.png
+    Manager/DataFolder/Valheim/cache/MonsterLabZ-MonsterLabZ/2.9.0/icon.png
 - manifestVersion: 1
   name: ASharpPen-Custom_Raids
   authorName: ASharpPen
@@ -1803,10 +1803,10 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 3
+    patch: 4
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/Smoothbrain-Resurrection/1.0.3/icon.png
+    Manager/DataFolder/Valheim/cache/Smoothbrain-Resurrection/1.0.4/icon.png
 - manifestVersion: 1
   name: purpledxd-Locator
   authorName: purpledxd
@@ -1920,10 +1920,10 @@
   versionNumber:
     major: 1
     minor: 11
-    patch: 6
+    patch: 7
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/Advize-PlantEverything/1.11.6/icon.png
+    Manager/DataFolder/Valheim/cache/Advize-PlantEverything/1.11.7/icon.png
 - manifestVersion: 1
   name: RockerKitten-BoneAppetit
   authorName: RockerKitten
@@ -2011,10 +2011,10 @@
   versionNumber:
     major: 4
     minor: 4
-    patch: 13
+    patch: 14
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/Smoothbrain-CreatureLevelAndLootControl/4.4.13/icon.png
+    Manager/DataFolder/Valheim/cache/Smoothbrain-CreatureLevelAndLootControl/4.4.14/icon.png
 - manifestVersion: 1
   name: ASharpPen-This_Goes_Here
   authorName: ASharpPen
@@ -2390,10 +2390,10 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:/Users/anton/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/Valheim/cache/Smoothbrain-ServerCharacters/1.3.1/icon.png
+    Manager/DataFolder/Valheim/cache/Smoothbrain-ServerCharacters/1.3.2/icon.png
 - manifestVersion: 1
   name: MrPurple6411-NoStaminaSneak
   authorName: MrPurple6411

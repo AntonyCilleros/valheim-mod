@@ -1,6 +1,6 @@
 {
     "name": "Mineshafts",
-    "version_number": "1.0.4",
+    "version_number": "1.0.5",
     "website_url": "https://github.com/GoldenJude/Mineshafts",
     "description": "Adds underground mining to valheim",
     "dependencies": [

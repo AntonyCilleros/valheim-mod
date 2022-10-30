@@ -16,11 +16,8 @@ Low-res texture version available in optional files on Nexus.
 
 Recipes can be viewed and adjusted in ReepusDeepusDelmeepus4902761.ChaosArmor.cfg.
 
-(Low Res)
-![](https://staticdelivery.nexusmods.com/mods/3667/images/1215/1215-1657432122-358647393.png)
-
-(Default)
-![](https://staticdelivery.nexusmods.com/mods/3667/images/1215/1215-1654743586-673230531.png)
+(T0, T2, T4)
+![](https://staticdelivery.nexusmods.com/mods/3667/images/1215/1215-1666722619-1534268938.jpeg)
 
 ##Full Equipment List
 
@@ -69,6 +66,18 @@ Umbral greaves (Prefab name EliteChaosPlateLegs)
 
 
 ##Changelog:
+10.2.0
+- updated ServerSync again, 10.1.0 was broken for non-crossplay
+
+10.1.0
+- updated to official ServerSync fix, should work for crossplay as well now
+
+10.0.6
+- updated ItemManager
+	- damage type resist configs are working as expected now from ItemManager update (thanks blaxxun)
+	- default config bundled with 10.0.6 to overwrite potentially wrong config settings from 10.0.4
+- small fix in ServerSync for game update
+
 10.0.5
 - temporary hotfix 
 - temporarily removed some config options from ItemManager regarding damage type resistances which were causing issues

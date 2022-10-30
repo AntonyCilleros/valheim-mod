@@ -122,7 +122,7 @@ The config can be edited out of game with a text editor, or modified in game usi
 ## Config
 ### Default Config File:
 ```
-## Settings file was created by plugin PlantEverything v1.11.6
+## Settings file was created by plugin PlantEverything v1.11.7
 ## Plugin GUID: advize.PlantEverything
 
 [Berries]
@@ -644,6 +644,9 @@ GrowthAsPercentage = false
 Github Repo: [Advize_ValheimMods](https://github.com/AdvizeGH/Advize_ValheimMods)
 
 ## Changelog
+### 1.11.7
+- Updated ServerSync to v1.13 for Valheim 0.211.11.
+
 ### 1.11.6
 - Updated ServerSync to v1.11 for Valheim 0.211.7 crossplay support.
 

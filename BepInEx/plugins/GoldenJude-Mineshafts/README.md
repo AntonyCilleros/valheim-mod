@@ -60,6 +60,8 @@ to define a vein config the header must start with ``vein_`` followed by anythin
 ![pic4](https://cdn.discordapp.com/attachments/818400376255545395/974629195416236092/unknown.png)  
 
 ## Changelog   
+- **1.0.5**  
+fixed configs issues when editing through r2modman, marked prefabs as static, updated serversync  
 - **1.0.4**  
 fixed required pickaxe tiers being too high in default config  
 - **1.0.3**  

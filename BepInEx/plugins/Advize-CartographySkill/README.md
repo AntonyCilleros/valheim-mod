@@ -45,7 +45,7 @@ Controls can be changed in the mod config - use this as your guide: https://docs
 ## Config
 ### Default Config File:
 ```
-## Settings file was created by plugin CartographySkill v2.1.1
+## Settings file was created by plugin CartographySkill v2.1.2
 ## Plugin GUID: advize.CartographySkill
 
 [Controls]
@@ -132,6 +132,9 @@ EnableDebugMessages = false
 Github Repo: [Advize_ValheimMods](https://github.com/AdvizeGH/Advize_ValheimMods)
 
 ## Changelog
+### 2.1.2
+- Updated ServerSync to v1.13 for Valheim 0.211.11.
+
 ### 2.1.1
 - Updated ServerSync to v1.11 for Valheim 0.211.7 crossplay support.
 - Added localization support for skill name and skill description.

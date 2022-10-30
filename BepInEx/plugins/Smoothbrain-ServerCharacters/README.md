@@ -18,6 +18,10 @@ If a client suddenly loses connection to the server, it will automatically creat
 
 These backups have a signature and messing with them will void this signature. The server will reject restoring emergency backups with an invalid signature.
 
+### AFK Kick Timer
+
+You can configure a time after which players will be automatically disconnected from the server, if they are AFK (= didn't move) for this time.
+
 ### Server Side Inventory
 
 The inventory of all characters is saved on the server, to prevent players from duping items.
